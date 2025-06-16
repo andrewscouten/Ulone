@@ -1,0 +1,16 @@
+- The land of [[Ulone]] was blessed in the land of the mother leaves; Temptation lures us into the leaves shadow.
+- Spring festival being held in [[Saohun]]
+- A serpentine dragon-like form is fighting a canine beast... [[Shiori]] sees the beast in the fire, another vision... Talking to her company, [Makas] and [Egris?]
+- [[Hera]] makes her way into town, a late 40s older man accompanying her. Shirtless man, rags, and wolf head who has said nothing on the journey to [[Saohun]]
+	- Hair in braided ponytail, heavy armor, pale, giant sword
+- Blonde, tabaxi woman meets [[Wählen]], ushering them inside
+- [[Ceol]], hiccup from hotyd leg, large shield, ruby beard, old man, comically oversized scroll and a broken sword
+	- Work order from further away, doesn't know where he is going
+	- Found his contact! A woman that speaks in a deep southern accent, "What do you need sugar?" She's in charge of the gator wrestling?
+- [[Rui]]... Wins a slashing contest of bamboo, taking someone unlucky man's money... Bambam red panda!
+- [[Shiori]] was left with akeria, a dog! shiba
+	- [[Mako]], has a little brother, coughing fit / sick, [[Akaza]]
+- [[Samurai Talvek]]
+	- The time of Shokai is nigh. Let it be the harrowed moon red in the crimson carrowbird appearance. Let us all rejoice for we are not rulers.” then Talvek slits his throat which drains black blood and beings with fox masks crawl out... 
+	- He kills himself with his sword, black blood pooling on the ground. Hands reach from the pools of blood, each of them wearing fox masks, contorted, humanoid, wings
+- 7 white ceramic shards, magical, mask?
