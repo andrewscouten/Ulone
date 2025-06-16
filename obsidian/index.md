@@ -1,5 +1,7 @@
 # Ulone
 
+Find the general lore [[Ulone Lore|here]].
+
 ## The Party
 
 > [!info]+ Active Members
@@ -13,7 +15,7 @@
 
 ![[ulone.jpg]]
 
-> [!example] Regions
+> [!example] Ulone
 > - [[Ikcho]]
 > - [[Yatari]]
 > - [[Samni]]

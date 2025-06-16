@@ -1,16 +1,28 @@
+# Session 1
+
 - The land of [[Ulone]] was blessed in the land of the mother leaves; Temptation lures us into the leaves shadow.
-- Spring festival being held in [[Saohun]]
-- A serpentine dragon-like form is fighting a canine beast... [[Shiori]] sees the beast in the fire, another vision... Talking to her company, [Makas] and [Egris?]
-- [[Hera]] makes her way into town, a late 40s older man accompanying her. Shirtless man, rags, and wolf head who has said nothing on the journey to [[Saohun]]
-	- Hair in braided ponytail, heavy armor, pale, giant sword
-- Blonde, tabaxi woman meets [[Wählen]], ushering them inside
-- [[Ceol]], hiccup from hotyd leg, large shield, ruby beard, old man, comically oversized scroll and a broken sword
-	- Work order from further away, doesn't know where he is going
-	- Found his contact! A woman that speaks in a deep southern accent, "What do you need sugar?" She's in charge of the gator wrestling?
-- [[Rui]]... Wins a slashing contest of bamboo, taking someone unlucky man's money... Bambam red panda!
-- [[Shiori]] was left with akeria, a dog! shiba
-	- [[Mako]], has a little brother, coughing fit / sick, [[Akaza]]
-- [[Samurai Talvek]]
-	- The time of Shokai is nigh. Let it be the harrowed moon red in the crimson carrowbird appearance. Let us all rejoice for we are not rulers.” then Talvek slits his throat which drains black blood and beings with fox masks crawl out... 
-	- He kills himself with his sword, black blood pooling on the ground. Hands reach from the pools of blood, each of them wearing fox masks, contorted, humanoid, wings
-- 7 white ceramic shards, magical, mask?
+- Everyone arrives at a spring festival sponsored and hosted by the [[Clan Talvek]] in [[Saohun]] whose leader is High Lord Admiral [[Samurai Talvek|Talvek]]:
+	- We open with a vision from [[Shiori]]: canine beast fights dragon that tunnels down a cavern where the beast stabs the dragon
+		- They talks to their company, they are companions.
+		- Has a shiba inu familiar, [[Akaza]]!
+	- [[Hera]] walks into town, late 40s older man accompanying her along with a shirtless man in lags and a wolf head who has not spoken their entire journey.
+		- Hair in braided ponytail, heavy armor, pale, giant sword
+	- [[Wählen]] is met by a blonde [[Tabaxi]] woman, ushering them inside a booth... "How do you not know what you are doing, you've been with the guild 2 years..."
+	- [[Ceol]] arrives on a work order, meets the gator wrestling woman who hired him.
+		- large shield, ruby beard, old man, comically oversized scroll and a broken sword on back
+	- [[Rui]] arrives, getting hoxed into a contest of strength... They destroy the competition getting a reward.
+		- Has a red panda familiar, [[Bam Bam]]!
+- [[Wählen]] steals [[Rui]]'s reward because [[Rui]] is a sucker and then gets most of the party to drink experimental tea from [[Akenai Sachio|Akenai]]. Tea of "minor harmless effects."
+
+---
+
+- The hosting [[Samurai Talvek]] has an announcement, after having his 100 titles announced...
+	- “The time of [[Shokai]] is nigh. Let it be the harrowed moon red in the crimson carrowbird appearance. Let us all rejoice for we are not rulers.” then Talvek slits his throat which drains black blood and beings with fox masks crawl out
+- Combat ensues, toughest enemy dies, we find [7 white ceramic shards] seemingly from a mask; creatures are a type of yokai (other worldly)
+
+---
+
+- [[Samurai Talvek|Talvek]]’s grandson is taking up the samurai title; his father is no samurai
+- The spring dragon did not pass over
+- [[Akenai Sachio|Akenai]] is missing and alligator lady said they did not have a potion seller on the docket
+- Grandson says he hasn’t heard from their shrine maiden since last week who recently dealt with a yokai incursion and hires us to investigate
