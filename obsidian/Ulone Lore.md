@@ -1,3 +1,7 @@
+# Ulone Lore
+
+## Background
+
 The following doc will go into details of the continent of [[Ulone]] and its history, as recorded by [[Kaion the Chronicler]]. 
 
 In order, the sections are;
@@ -45,3 +49,137 @@ After the continents separation, the birth of the [[Itanno]], the disappearance 
 // Blessed be the mother leaves
 
 ---
+
+## Regions
+
+### [[Samni]] 
+
+Samni is located in the middle of the continent. Trade is the main factor of the economy here and is often considered the richest region. It’s not uncommon to see common folk with silk clothing and having the pocket change to hire Sea Ronin. They hold almost every festival, big or small. 
+
+### [[Ikcho]] 
+
+Ikcho is often hailed as the land of creativity and is easily a hundred years ahead of every other region due to the creations they keep for themselves. They are responsible for almost every non rudimentary item or structure you see. 
+
+### [[Yatari]]
+
+Yatari is known as the region whose worship can be felt from miles away. They are undying to their gods and will use their religious fervor to harness magic. This is where most if not all shrine maidens come from. Some may call them fanatics to the missing Yatari or the gods themselves, but to claim they are ineffective in their ways is unfounded as you can see a shrine maiden in almost every town even outside Yatari. 
+
+### [[Whistling Mountains|The Whistling Mountains]]
+
+The largest mountain range in Ulone. It separates the land of leaves from the rest of the region. It’s mostly uninhabited other than non Heili dragons (Your standard European dragon), rumors of what should be long extinct Oni, and cult of the Helix dragons at the base. 
+
+### [[Land of Leaves|The Land of Leaves]]
+
+Named after the leaves that fall on the ground from the great Levin. Levin resides in the middle of this region and can even be seen over the whistling mountains. This is where the Samurai train fledglings and grant them their rights as rulers. Only the highest of nobility, and those who would become samurai are allowed to traverse on this golden land. 
+
+### [[Taor|The Taor]]
+
+While not necessarily a region itself, it is found in almost every region. The Taor are ancient ruins said to have existed before the war. No one knows who their inhabitants were, but some theorize they were much more advanced given that the stone that make these ruins have never been broken. Be that from human attempts and natural phenomena. Taor ruins are restricted to everyone other than the leaders of the region. Anyone else found trespassing will be given punishment. 
+
+## The Factions
+
+### [[Ikcho Crafters|The Ikcho Crafters]]
+
+The name leaves no room for subtlety. They are crafters from Ikcho, often traveling to sell a new creation either of their own making, or an independent crafting organizations tool. Most are traders, but some are more than willing to pull out their tools and fight with them. 
+
+### [[Shrine Maidens|The Shrine Maidens]]
+
+Despite their name, not every shrine maiden is a woman. Shrine Maidens are worshippers of gods that tend to shrines of their chosen god. They often control the nature and elemental energies around them making them more than a shrine tender but also a guardian. 
+
+### [[Sea Ronin|The Sea Ronin]]
+
+The Sea Ronin are often warriors who didn’t make the cut for Samurai but are still more than capable monster hunters and bounty hunters. They get their name by their ability to control water and use it as a tool for battle. A sea ronin can be the warrior that saves your life, village, or more. For a price. 
+
+### [[Samurai|The Samurai]]
+
+The Samurai are the main bringers of law to the land. They are well known by their armor and the mask of a demon they have tamed around their waist that they use in full control. It is seen as rude or even heresy to not address one as ‘Lord’ or ‘Lady’ as they have been granted power by the great Levin themselves. A Samurai’s word is final, and if that fails, its blade is truly the finale. 
+
+### [[Helix Dragons|The Helix Dragons]]
+
+While not a true faction as they are recognized as a cult and are very small, the Helix dragons worship the Heili dragons and hunt the non divine dragons. Due to the dragons being a plague across the land, they take it upon themselves to kill it and feast on its flesh and bones. Some even claim that the more major parts of the dragon can alter their body giving them strange abilities. But they are all unfounded. 
+
+## The Pantheon
+
+The pantheon consists of 5 gods, 4 of them having dual gendered depictions that represent a different domain. Any domain unlisted is assumed to be under [[Levin]] themselves. 
+
+[[Mondli]] 
+Female counterpart: Sun
+Male counterpart: Moon 
+
+[[Zahl]]
+Female counterpart: Death
+Male counterpart: Life
+
+[[Wiboe]]
+Female counterpart: War
+Male counterpart: Peace
+
+[[Kam-Zum]]
+Female counterpart: Earth
+Male counterpart: Wind
+
+## Races
+
+The following is the list of races that currently exist in Ulone. Some of them are not races but rather a large generalized group. 
+
+### Common
+
+#### [[Humans]]
+
+The most common species in Ulone, therefore most samurai and higher individuals are human. Overall they have a very neutral standing with people as they never did anything world changing in the war. 
+
+#### [[Dwarves]]
+
+The second most common race. However unlike humans they are often revered due to simply being the same race as Ulone. They might even get a pass for not addressing a samurai as ‘lord’ or ‘lady’. 
+
+#### [[Yuan-Ti]]
+
+The last of the common races and have a general attracting aura around them. They are quick to make friends, possibly because their scales resemble that of the Heili dragon’s. But make no mistake, they were seen as one of, if not the greatest fighters in the war. 
+
+### Uncommon
+
+#### [[Half Elves]]
+
+The start of the less common races, half elves are spared persecution due to their ancestors switching sides in the Great War. But they are on a very thin line. It’s not uncommon for them to be refused service. Just penance for their ancestors' actions. 
+
+#### [[Halfling]]
+
+One of the newer races, it is said that Levin took the holy parts of the Dwarves to create a new race fit. These are rather uncommon but often have kind souls and generally fit right in with Dwarves. 
+
+#### [[Dragonborn]]
+
+Said to be an offshoot of the Yuan-Ti, Dragonborn are incredibly rare and are rumored to be fallen scales from the Heili dragons. No one has confirmed if this is true, but as of right now, it’s treated as fact. 
+
+#### [[Tabaxi]]
+
+Also known as ‘Noyona’, they are a race of felines, sometimes having only cat eyes and other times looking entirely like a cat. They are the oldest of the more uncommon races as it is said that Ulone created them. There are even some rumors that one was his wife. 
+
+#### [[Triton]]
+
+While hailing from the sea, they are not all necessarily sea ronin but do come with the innate power to command water and are the one race aside from Yuan-ti that are given the magical exemption. They are the youngest of the new races and it’s not rare to see one as a bodyguard. 
+
+#### [[Bearers]]
+
+This name is given to the mutant races or ones that naturally have magic, excluding Yuan-ti and Triton, 
+
+They are also known as the ‘slave race’ or ‘Marked’ as they are property for the superior races. Ink is cast on their face to mark them, removal of this brand carries the possibility of death as poison can leak into veins. Buying a new bearer is commonplace, but the bearers who are able to fight cost quite a good amount. 
+
+Attempting to remove their brand is punishable by death for the bearer and anyone involved. 
+
+#### [[Tekina]]
+
+Similar to bearers, the Tekina are born magical but are given special privileges as it is said that the power of Ulone or one of his children flows through them.
+
+“And behold, eight wardens of my power. Fire, Earth, Water, Ice, Light, Darkness, Wind, and Lightning.” -Ulone, champion of Levin
+
+The Tekina are often assumed to be warriors of great renown, some even being able to turn into large creatures known as ‘Aikons’. Some speculate that these Aikon’s are the Heili dragons, but they are only rumors. 
+
+Current known Aikons:
+Tengu: The breath of wind 
+Orochi: The Lord of Lightning
+Ryu: The Flying flame 
+Yuki-onna: The Warden of Ice 
+Namazu: The lost 
+Tsuchigomo: The Earthshaker 
+Amanozako: The eversetting 
+Komyoryu: The blinding 

@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ulone Lore.md",
-                "mode": "source",
+                "file": "(3) Sessions/(1) Season 1/Session 1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ulone Lore"
-            }
-          },
-          {
-            "id": "9acbfc3c337c0cc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2) Campaign/1-Entities/Pantheon/1-Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-Summary"
+              "title": "Session 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,46 +165,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9acbfc3c337c0cc9",
+  "active": "860654aa7665a46c",
   "lastOpenFiles": [
-    "(2) Campaign/1-Entities/Pantheon/Levin.md",
+    "(3) Sessions/(0) Loot/Unused Items.md",
+    "(3) Sessions/(1) Season 1/Session 1.md",
+    "(3) Sessions/(0) Loot",
+    "Ulone Lore.md",
+    "(3) Sessions/(1) Season 1",
+    "(2) Campaign/5-Misc/Races/1-Summary.md",
     "(2) Campaign/1-Entities/Pantheon/1-Summary.md",
+    "(2) Campaign/2-Factions/1-Summary.md",
+    "(2) Campaign/4-Locations/Ulone/1-Summary.md",
+    "(2) Campaign/4-Locations/Ulone/Samni/Samni.md",
+    "(2) Campaign/4-Locations/Ulone/Taor.md",
+    "index.md",
+    "(0) Files/assets/maps/nw_samni.jpg",
+    "(0) Files/assets/maps/ulone.jpg",
+    "(0) Files/assets/maps",
+    "(0) Files/assets",
+    "(2) Campaign/1-Entities/Pantheon/Levin.md",
     "(2) Campaign/1-Entities/Pantheon/Kam-Zum.md",
     "(2) Campaign/1-Entities/Pantheon/Wiboe.md",
     "(2) Campaign/1-Entities/Pantheon/Zahl.md",
     "(2) Campaign/1-Entities/Pantheon/Mondli.md",
-    "Ulone Lore.md",
-    "(2) Campaign/4-Locations/Material Plane/1-Summary.md",
-    "(2) Campaign/4-Locations/Material Plane/Taor.md",
-    "(2) Campaign/4-Locations/Material Plane/Land of Leaves/Land of Leaves.md",
-    "(2) Campaign/4-Locations/Material Plane/Whistling Mountains/Whistling Mountains.md",
-    "(2) Campaign/4-Locations/Material Plane/Yatari/Yatari.md",
-    "(2) Campaign/4-Locations/Material Plane/Ikcho/Ikcho.md",
-    "(2) Campaign/4-Locations/Material Plane/Samni/Samni.md",
-    "(2) Campaign/4-Locations/Material Plane/Samni/Saohun.md",
+    "(2) Campaign/4-Locations/Ulone/Land of Leaves/Land of Leaves.md",
+    "(2) Campaign/4-Locations/Ulone/Whistling Mountains/Whistling Mountains.md",
+    "(2) Campaign/4-Locations/Ulone/Yatari/Yatari.md",
+    "(2) Campaign/4-Locations/Ulone/Ikcho/Ikcho.md",
+    "(2) Campaign/4-Locations/Ulone/Samni/Saohun.md",
     "(2) Campaign/2-Factions/Shrine Maidens.md",
     "(2) Campaign/2-Factions/Sea Ronin.md",
     "(2) Campaign/2-Factions/Samurai.md",
     "(2) Campaign/2-Factions/Ikcho Crafters.md",
     "(2) Campaign/2-Factions/Helix Dragons.md",
-    "(2) Campaign/2-Factions/1-Summary.md",
     "(0) Wählen/Book.md",
-    "(0) Wählen/Awakening Info.md",
-    "(1) Party/Ceol.md",
-    "(1) Party/Hera.md",
-    "(1) Party/Rui.md",
     "(0) Wählen/Wählen.pdf",
     "(2) Campaign/2-Factions/Samurai",
     "(2) Campaign/2-Factions/Sea Ronin",
     "(2) Campaign/2-Factions/Shrine Maidens",
     "(2) Campaign/2-Factions/Ikcho Crafters",
-    "(2) Campaign/4-Locations/Suteki",
-    "(2) Campaign/4-Locations/Material Plane",
-    "(2) Campaign/4-Locations/Material Plane/Land of Leaves",
-    "(2) Campaign/4-Locations/Material Plane/Whistling Mountains",
-    "(2) Campaign/4-Locations/Material Plane/Yatari"
+    "(2) Campaign/4-Locations/Suteki"
   ]
 }
