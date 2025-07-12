@@ -9,7 +9,7 @@ Find the general lore [[Ulone Lore|here]].
 > - [[Hera]]
 > - [[Rui]]
 > - [[Shiori]]
-> - [[Wählen]]
+> - [[Wahlen]]
 
 ## Regions
 

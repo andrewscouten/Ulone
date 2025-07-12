@@ -7,17 +7,17 @@
 		- Has a shiba inu familiar, [[Akaza]]!
 	- [[Hera]] walks into town, late 40s older man accompanying her along with a shirtless man in lags and a wolf head who has not spoken their entire journey.
 		- Hair in braided ponytail, heavy armor, pale, giant sword
-	- [[Wählen]] is met by a blonde [[Tabaxi]] woman, ushering them inside a booth... "How do you not know what you are doing, you've been with the guild 2 years..."
+	- [[Wahlen]] is met by a blonde [[Tabaxi]] woman, ushering them inside a booth... "How do you not know what you are doing, you've been with the guild 2 years..."
 	- [[Ceol]] arrives on a work order, meets the gator wrestling woman who hired him.
 		- large shield, ruby beard, old man, comically oversized scroll and a broken sword on back
 	- [[Rui]] arrives, getting hoxed into a contest of strength... They destroy the competition getting a reward.
 		- Has a red panda familiar, [[Bam Bam]]!
-- [[Wählen]] steals [[Rui]]'s reward because [[Rui]] is a sucker and then gets most of the party to drink experimental tea from [[Akenai Sachio|Akenai]]. Tea of "minor harmless effects."
+- [[Wahlen]] steals [[Rui]]'s reward because [[Rui]] is a sucker and then gets most of the party to drink experimental tea from [[Akenai Sachio|Akenai]]. Tea of "minor harmless effects."
 
 ---
 
 - The hosting [[Samurai Talvek]] has an announcement, after having his 100 titles announced...
-	- “The time of [[Shokai]] is nigh. Let it be the harrowed moon red in the crimson carrowbird appearance. Let us all rejoice for we are not rulers.” then Talvek slits his throat which drains black blood and beings with fox masks crawl out
+	- “The time of [[Suteki]] is nigh. Let it be the harrowed moon red in the crimson carrowbird appearance. Let us all rejoice for we are not rulers.” then Talvek slits his throat which drains black blood and beings with fox masks crawl out
 - Combat ensues, toughest enemy dies, we find [7 white ceramic shards] seemingly from a mask; creatures are a type of yokai (other worldly)
 
 ---
