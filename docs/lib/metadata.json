@@ -1,13 +1,14 @@
 {
   "vaultName": "Ulone",
-  "lastExport": 1750097716848,
+  "lastExport": 1753571487275,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager show-inline-title show-ribbon theme-dark check-color check-bg dnd",
+  "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title show-ribbon check-color check-bg dnd",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "(0) Files/assets/maps/nw_samni.jpg",
     "(0) Files/assets/maps/ulone.jpg",
+    "(0) Files/assets/party/wahlen/portrait_wahlen.png",
     "(0) Files/src/connections.js",
     "(0) Files/src/graph_utils.js",
     "(0) Files/src/Useful Commands.md",
@@ -20,12 +21,23 @@
     "(1) Party/Hera.md",
     "(1) Party/Rui.md",
     "(1) Party/Shiori.md",
-    "(1) Party/Wählen.md",
+    "(1) Party/Wahlen.md",
+    "(2) Campaign/1-Entities/Aikons/Akion.md",
+    "(2) Campaign/1-Entities/Aikons/Amanozako.md",
+    "(2) Campaign/1-Entities/Aikons/Komyoryu.md",
+    "(2) Campaign/1-Entities/Aikons/Namazu.md",
+    "(2) Campaign/1-Entities/Aikons/Orochi.md",
+    "(2) Campaign/1-Entities/Aikons/Ryu.md",
+    "(2) Campaign/1-Entities/Aikons/Tengu.md",
+    "(2) Campaign/1-Entities/Aikons/Tsuchigomo.md",
+    "(2) Campaign/1-Entities/Aikons/Yuki-onna.md",
     "(2) Campaign/1-Entities/Pantheon/Kam-Zum.md",
     "(2) Campaign/1-Entities/Pantheon/Levin.md",
     "(2) Campaign/1-Entities/Pantheon/Mondli.md",
     "(2) Campaign/1-Entities/Pantheon/Wiboe.md",
     "(2) Campaign/1-Entities/Pantheon/Zahl.md",
+    "(2) Campaign/1-Entities/Oharah.md",
+    "(2) Campaign/1-Entities/Terrada.md",
     "(2) Campaign/1-Entities/Ulone.md",
     "(2) Campaign/2-Factions/Clans/Clan Delivon.md",
     "(2) Campaign/2-Factions/Clans/Clan Talvek.md",
@@ -43,7 +55,11 @@
     "(2) Campaign/3-People/2-Historic/Lord Delivon.md",
     "(2) Campaign/3-People/2-Historic/Samni, the Quick Witted Son.md",
     "(2) Campaign/3-People/2-Historic/Yatari, the Faithful Daughter.md",
+    "(2) Campaign/3-People/Atidari.md",
+    "(2) Campaign/3-People/Ghomah.md",
+    "(2) Campaign/3-People/Lleth.md",
     "(2) Campaign/3-People/Samurai Talvek.md",
+    "(2) Campaign/3-People/Young Samurai Talvek.md",
     "(2) Campaign/4-Locations/Suteki/Suteki.md",
     "(2) Campaign/4-Locations/Ulone/Ikcho/Ikcho.md",
     "(2) Campaign/4-Locations/Ulone/Land of Leaves/Land of Leaves.md",
@@ -68,10 +84,19 @@
     "(2) Campaign/5-Misc/Races/Triton.md",
     "(2) Campaign/5-Misc/Races/Yokai.md",
     "(2) Campaign/5-Misc/Races/Yuan-Ti.md",
+    "(2) Campaign/5-Misc/Fire Stick.md",
+    "(2) Campaign/5-Misc/Great Shattering.md",
+    "(2) Campaign/5-Misc/Great War.md",
+    "(2) Campaign/5-Misc/Ice Stick.md",
     "(3) Sessions/(0) Loot/Unused Items.md",
     "(3) Sessions/(1) Season 1/Session 1.md",
+    "(3) Sessions/(1) Season 1/Session 2.md",
+    "(3) Sessions/(1) Season 1/Session 3.md",
+    "(3) Sessions/(1) Season 1/Session 4.md",
+    "(3) Sessions/(1) Season 1/Session 5.md",
     "index.md",
     "Ulone Lore.md",
+    "lib/media/portrait_wahlen.png",
     "lib/media/nw_samni.jpg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -138,253 +163,351 @@
   ],
   "fileInfo": {
     "(0) Files/assets/maps/nw_samni.jpg": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 1797447,
       "exportedPath": "(0)-files/assets/maps/nw_samni.jpg",
       "dependencies": []
     },
     "(0) Files/assets/maps/ulone.jpg": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 822250,
       "exportedPath": "(0)-files/assets/maps/ulone.jpg",
       "dependencies": []
     },
+    "(0) Files/assets/party/wahlen/portrait_wahlen.png": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 1278465,
+      "exportedPath": "(0)-files/assets/party/wahlen/portrait_wahlen.png",
+      "dependencies": []
+    },
     "(0) Files/src/connections.js": {
-      "modifiedTime": 1750097716848,
-      "sourceSize": 1354,
+      "modifiedTime": 1753571487275,
+      "sourceSize": 1319,
       "exportedPath": "(0)-files/src/connections.js",
       "dependencies": []
     },
     "(0) Files/src/graph_utils.js": {
-      "modifiedTime": 1750097716848,
-      "sourceSize": 788,
+      "modifiedTime": 1753571487275,
+      "sourceSize": 768,
       "exportedPath": "(0)-files/src/graph_utils.js",
       "dependencies": []
     },
     "(0) Files/src/Useful Commands.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 411,
       "exportedPath": "(0)-files/src/useful-commands.html",
       "dependencies": []
     },
     "(0) Files/uncategorized/Itanno.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(0)-files/uncategorized/itanno.html",
       "dependencies": []
     },
     "(0) Files/uncategorized/Shokai.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(0)-files/uncategorized/shokai.html",
       "dependencies": []
     },
     "(0) Wählen/Awakening Info.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 481,
       "exportedPath": "(0)-wählen/awakening-info.html",
       "dependencies": []
     },
     "(0) Wählen/Book.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 378,
       "exportedPath": "(0)-wählen/book.html",
       "dependencies": []
     },
     "(0) Wählen/Wählen.pdf": {
-      "modifiedTime": 1750097716848,
-      "sourceSize": 16272227,
+      "modifiedTime": 1753571487275,
+      "sourceSize": 16297446,
       "exportedPath": "(0)-wählen/wählen.pdf",
       "dependencies": []
     },
     "(1) Party/Ceol.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(1)-party/ceol.html",
       "dependencies": []
     },
     "(1) Party/Hera.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(1)-party/hera.html",
       "dependencies": []
     },
     "(1) Party/Rui.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(1)-party/rui.html",
       "dependencies": []
     },
     "(1) Party/Shiori.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(1)-party/shiori.html",
       "dependencies": []
     },
-    "(1) Party/Wählen.md": {
-      "modifiedTime": 1750097716848,
-      "sourceSize": 0,
-      "exportedPath": "(1)-party/wählen.html",
+    "(1) Party/Wahlen.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 197,
+      "exportedPath": "(1)-party/wahlen.html",
+      "dependencies": [
+        "lib/media/portrait_wahlen.png"
+      ]
+    },
+    "(2) Campaign/1-Entities/Aikons/Akion.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 29,
+      "exportedPath": "(2)-campaign/1-entities/aikons/akion.html",
+      "dependencies": []
+    },
+    "(2) Campaign/1-Entities/Aikons/Amanozako.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 160,
+      "exportedPath": "(2)-campaign/1-entities/aikons/amanozako.html",
+      "dependencies": []
+    },
+    "(2) Campaign/1-Entities/Aikons/Komyoryu.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 203,
+      "exportedPath": "(2)-campaign/1-entities/aikons/komyoryu.html",
+      "dependencies": []
+    },
+    "(2) Campaign/1-Entities/Aikons/Namazu.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 120,
+      "exportedPath": "(2)-campaign/1-entities/aikons/namazu.html",
+      "dependencies": []
+    },
+    "(2) Campaign/1-Entities/Aikons/Orochi.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 53,
+      "exportedPath": "(2)-campaign/1-entities/aikons/orochi.html",
+      "dependencies": []
+    },
+    "(2) Campaign/1-Entities/Aikons/Ryu.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 26,
+      "exportedPath": "(2)-campaign/1-entities/aikons/ryu.html",
+      "dependencies": []
+    },
+    "(2) Campaign/1-Entities/Aikons/Tengu.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 50,
+      "exportedPath": "(2)-campaign/1-entities/aikons/tengu.html",
+      "dependencies": []
+    },
+    "(2) Campaign/1-Entities/Aikons/Tsuchigomo.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 165,
+      "exportedPath": "(2)-campaign/1-entities/aikons/tsuchigomo.html",
+      "dependencies": []
+    },
+    "(2) Campaign/1-Entities/Aikons/Yuki-onna.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 144,
+      "exportedPath": "(2)-campaign/1-entities/aikons/yuki-onna.html",
       "dependencies": []
     },
     "(2) Campaign/1-Entities/Pantheon/Kam-Zum.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 48,
       "exportedPath": "(2)-campaign/1-entities/pantheon/kam-zum.html",
       "dependencies": []
     },
     "(2) Campaign/1-Entities/Pantheon/Levin.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(2)-campaign/1-entities/pantheon/levin.html",
       "dependencies": []
     },
     "(2) Campaign/1-Entities/Pantheon/Mondli.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 48,
       "exportedPath": "(2)-campaign/1-entities/pantheon/mondli.html",
       "dependencies": []
     },
     "(2) Campaign/1-Entities/Pantheon/Wiboe.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 47,
       "exportedPath": "(2)-campaign/1-entities/pantheon/wiboe.html",
       "dependencies": []
     },
     "(2) Campaign/1-Entities/Pantheon/Zahl.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 48,
       "exportedPath": "(2)-campaign/1-entities/pantheon/zahl.html",
       "dependencies": []
     },
+    "(2) Campaign/1-Entities/Oharah.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 0,
+      "exportedPath": "(2)-campaign/1-entities/oharah.html",
+      "dependencies": []
+    },
+    "(2) Campaign/1-Entities/Terrada.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 32,
+      "exportedPath": "(2)-campaign/1-entities/terrada.html",
+      "dependencies": []
+    },
     "(2) Campaign/1-Entities/Ulone.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(2)-campaign/1-entities/ulone.html",
       "dependencies": []
     },
     "(2) Campaign/2-Factions/Clans/Clan Delivon.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(2)-campaign/2-factions/clans/clan-delivon.html",
       "dependencies": []
     },
     "(2) Campaign/2-Factions/Clans/Clan Talvek.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(2)-campaign/2-factions/clans/clan-talvek.html",
       "dependencies": []
     },
     "(2) Campaign/2-Factions/Helix Dragons.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 39,
       "exportedPath": "(2)-campaign/2-factions/helix-dragons.html",
       "dependencies": []
     },
     "(2) Campaign/2-Factions/Ikcho Crafters.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 40,
       "exportedPath": "(2)-campaign/2-factions/ikcho-crafters.html",
       "dependencies": []
     },
     "(2) Campaign/2-Factions/Samurai.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 33,
       "exportedPath": "(2)-campaign/2-factions/samurai.html",
       "dependencies": []
     },
     "(2) Campaign/2-Factions/Sea Ronin.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 35,
       "exportedPath": "(2)-campaign/2-factions/sea-ronin.html",
       "dependencies": []
     },
     "(2) Campaign/2-Factions/Shrine Maidens.md": {
-      "modifiedTime": 1750097716848,
-      "sourceSize": 40,
+      "modifiedTime": 1753571487275,
+      "sourceSize": 58,
       "exportedPath": "(2)-campaign/2-factions/shrine-maidens.html",
       "dependencies": []
     },
     "(2) Campaign/3-People/1-Party/Rui/Bam Bam.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(2)-campaign/3-people/1-party/rui/bam-bam.html",
       "dependencies": []
     },
     "(2) Campaign/3-People/1-Party/Shiori/Akaza.md": {
-      "modifiedTime": 1750097716848,
-      "sourceSize": 0,
+      "modifiedTime": 1753571487275,
+      "sourceSize": 16,
       "exportedPath": "(2)-campaign/3-people/1-party/shiori/akaza.html",
       "dependencies": []
     },
     "(2) Campaign/3-People/1-Party/Shiori/Mako.md": {
-      "modifiedTime": 1750097716848,
-      "sourceSize": 0,
+      "modifiedTime": 1753571487275,
+      "sourceSize": 40,
       "exportedPath": "(2)-campaign/3-people/1-party/shiori/mako.html",
       "dependencies": []
     },
     "(2) Campaign/3-People/1-Party/Wählen/Akenai Sachio.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 28,
       "exportedPath": "(2)-campaign/3-people/1-party/wählen/akenai-sachio.html",
       "dependencies": []
     },
     "(2) Campaign/3-People/2-Historic/Ikcho, the Daughter Who Could Craft the World Itself.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 27,
       "exportedPath": "(2)-campaign/3-people/2-historic/ikcho,-the-daughter-who-could-craft-the-world-itself.html",
       "dependencies": []
     },
     "(2) Campaign/3-People/2-Historic/Kaion the Chronicler.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(2)-campaign/3-people/2-historic/kaion-the-chronicler.html",
       "dependencies": []
     },
     "(2) Campaign/3-People/2-Historic/Lord Delivon.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 24,
       "exportedPath": "(2)-campaign/3-people/2-historic/lord-delivon.html",
       "dependencies": []
     },
     "(2) Campaign/3-People/2-Historic/Samni, the Quick Witted Son.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 27,
       "exportedPath": "(2)-campaign/3-people/2-historic/samni,-the-quick-witted-son.html",
       "dependencies": []
     },
     "(2) Campaign/3-People/2-Historic/Yatari, the Faithful Daughter.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 28,
       "exportedPath": "(2)-campaign/3-people/2-historic/yatari,-the-faithful-daughter.html",
       "dependencies": []
     },
+    "(2) Campaign/3-People/Atidari.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 56,
+      "exportedPath": "(2)-campaign/3-people/atidari.html",
+      "dependencies": []
+    },
+    "(2) Campaign/3-People/Ghomah.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 29,
+      "exportedPath": "(2)-campaign/3-people/ghomah.html",
+      "dependencies": []
+    },
+    "(2) Campaign/3-People/Lleth.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 0,
+      "exportedPath": "(2)-campaign/3-people/lleth.html",
+      "dependencies": []
+    },
     "(2) Campaign/3-People/Samurai Talvek.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 28,
       "exportedPath": "(2)-campaign/3-people/samurai-talvek.html",
       "dependencies": []
     },
+    "(2) Campaign/3-People/Young Samurai Talvek.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 0,
+      "exportedPath": "(2)-campaign/3-people/young-samurai-talvek.html",
+      "dependencies": []
+    },
     "(2) Campaign/4-Locations/Suteki/Suteki.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 423,
       "exportedPath": "(2)-campaign/4-locations/suteki/suteki.html",
       "dependencies": []
     },
     "(2) Campaign/4-Locations/Ulone/Ikcho/Ikcho.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 235,
       "exportedPath": "(2)-campaign/4-locations/ulone/ikcho/ikcho.html",
       "dependencies": []
     },
     "(2) Campaign/4-Locations/Ulone/Land of Leaves/Land of Leaves.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 396,
       "exportedPath": "(2)-campaign/4-locations/ulone/land-of-leaves/land-of-leaves.html",
       "dependencies": []
     },
     "(2) Campaign/4-Locations/Ulone/Samni/Samni.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 311,
       "exportedPath": "(2)-campaign/4-locations/ulone/samni/samni.html",
       "dependencies": [
@@ -392,339 +515,393 @@
       ]
     },
     "(2) Campaign/4-Locations/Ulone/Samni/Saohun.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(2)-campaign/4-locations/ulone/samni/saohun.html",
       "dependencies": []
     },
     "(2) Campaign/4-Locations/Ulone/Whistling Mountains/Whistling Mountains.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 318,
       "exportedPath": "(2)-campaign/4-locations/ulone/whistling-mountains/whistling-mountains.html",
       "dependencies": []
     },
     "(2) Campaign/4-Locations/Ulone/Yatari/Yatari.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 423,
       "exportedPath": "(2)-campaign/4-locations/ulone/yatari/yatari.html",
       "dependencies": []
     },
     "(2) Campaign/4-Locations/Ulone/Taor.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 508,
       "exportedPath": "(2)-campaign/4-locations/ulone/taor.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Bearers.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 534,
       "exportedPath": "(2)-campaign/5-misc/races/bearers.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Changelings.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 32,
       "exportedPath": "(2)-campaign/5-misc/races/changelings.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Dragonborn.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 214,
       "exportedPath": "(2)-campaign/5-misc/races/dragonborn.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Dwarves.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 231,
       "exportedPath": "(2)-campaign/5-misc/races/dwarves.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Elves.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 25,
       "exportedPath": "(2)-campaign/5-misc/races/elves.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Gnomes.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 27,
       "exportedPath": "(2)-campaign/5-misc/races/gnomes.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Half Elves.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 287,
       "exportedPath": "(2)-campaign/5-misc/races/half-elves.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Halfling.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 201,
       "exportedPath": "(2)-campaign/5-misc/races/halfling.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Humans.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 227,
       "exportedPath": "(2)-campaign/5-misc/races/humans.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Orcs.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 25,
       "exportedPath": "(2)-campaign/5-misc/races/orcs.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Tabaxi.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 298,
       "exportedPath": "(2)-campaign/5-misc/races/tabaxi.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Tekina.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 757,
       "exportedPath": "(2)-campaign/5-misc/races/tekina.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Tieflings.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 53,
       "exportedPath": "(2)-campaign/5-misc/races/tieflings.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Triton.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 283,
       "exportedPath": "(2)-campaign/5-misc/races/triton.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Yokai.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
       "exportedPath": "(2)-campaign/5-misc/races/yokai.html",
       "dependencies": []
     },
     "(2) Campaign/5-Misc/Races/Yuan-Ti.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 267,
       "exportedPath": "(2)-campaign/5-misc/races/yuan-ti.html",
       "dependencies": []
     },
-    "(3) Sessions/(0) Loot/Unused Items.md": {
-      "modifiedTime": 1750097716848,
+    "(2) Campaign/5-Misc/Fire Stick.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 63,
+      "exportedPath": "(2)-campaign/5-misc/fire-stick.html",
+      "dependencies": []
+    },
+    "(2) Campaign/5-Misc/Great Shattering.md": {
+      "modifiedTime": 1753571487275,
       "sourceSize": 0,
+      "exportedPath": "(2)-campaign/5-misc/great-shattering.html",
+      "dependencies": []
+    },
+    "(2) Campaign/5-Misc/Great War.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 0,
+      "exportedPath": "(2)-campaign/5-misc/great-war.html",
+      "dependencies": []
+    },
+    "(2) Campaign/5-Misc/Ice Stick.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 62,
+      "exportedPath": "(2)-campaign/5-misc/ice-stick.html",
+      "dependencies": []
+    },
+    "(3) Sessions/(0) Loot/Unused Items.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 177,
       "exportedPath": "(3)-sessions/(0)-loot/unused-items.html",
       "dependencies": []
     },
     "(3) Sessions/(1) Season 1/Session 1.md": {
-      "modifiedTime": 1750097716848,
-      "sourceSize": 2291,
+      "modifiedTime": 1753571487275,
+      "sourceSize": 2289,
       "exportedPath": "(3)-sessions/(1)-season-1/session-1.html",
       "dependencies": []
     },
+    "(3) Sessions/(1) Season 1/Session 2.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 3092,
+      "exportedPath": "(3)-sessions/(1)-season-1/session-2.html",
+      "dependencies": []
+    },
+    "(3) Sessions/(1) Season 1/Session 3.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 1296,
+      "exportedPath": "(3)-sessions/(1)-season-1/session-3.html",
+      "dependencies": []
+    },
+    "(3) Sessions/(1) Season 1/Session 4.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 550,
+      "exportedPath": "(3)-sessions/(1)-season-1/session-4.html",
+      "dependencies": []
+    },
+    "(3) Sessions/(1) Season 1/Session 5.md": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 0,
+      "exportedPath": "(3)-sessions/(1)-season-1/session-5.html",
+      "dependencies": []
+    },
     "index.md": {
-      "modifiedTime": 1750097716848,
-      "sourceSize": 339,
+      "modifiedTime": 1753571487275,
+      "sourceSize": 338,
       "exportedPath": "index.html",
       "dependencies": [
         "(0)-files/assets/maps/ulone.jpg"
       ]
     },
     "Ulone Lore.md": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 14436,
       "exportedPath": "ulone-lore.html",
       "dependencies": []
     },
+    "lib/media/portrait_wahlen.png": {
+      "modifiedTime": 1753571487275,
+      "sourceSize": 1278465,
+      "exportedPath": "lib/media/portrait_wahlen.png",
+      "dependencies": []
+    },
     "lib/media/nw_samni.jpg": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 1797447,
       "exportedPath": "lib/media/nw_samni.jpg",
       "dependencies": []
     },
     "(0)-files/assets/maps/ulone.jpg": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 822250,
       "exportedPath": "(0)-files/assets/maps/ulone.jpg",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1750097716848,
-      "sourceSize": 42743,
+      "modifiedTime": 1753571487275,
+      "sourceSize": 52729,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1750097716848,
-      "sourceSize": 5153,
+      "modifiedTime": 1753571487275,
+      "sourceSize": 7043,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 726320,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1750097716848,
+      "modifiedTime": 1753571487275,
       "sourceSize": 514,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []

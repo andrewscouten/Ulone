@@ -1,5 +1,6 @@
 # Session 2
 
+---
 - The party has a morning greeting to one another in the barn they were staying in...
 	- [[Shiori]] is awoken my [[Mako]]. [[Mako]] is excited about their new job! 
 	- [[Shiori]] is worried about [[Akaza]], saying he must prove himself before he can join us... "If you can control your powers you can come."
@@ -11,14 +12,14 @@
 ---
 - The party sets out to the shrine...
 	- A LOT of dead birds belly up on the road, as if fallen out of their air. No sickness. Necromancy magic
-
-Approaching the shrine...
-- 3 guards conversing. There is something wrong inside. The [[Shrine Maidens|Shrine Maiden]] we were sent out to protect, [[Lleth]], was in danger and there is another [[Shrine Maidens|Shrine Maiden]] inside now helping her. They don't want to let us inside, something feels off so we kill them
-	- [[Akaza]] and [[Mako]] is blessed by the icon [[Ryu]]
+	- Guarded, something wrong inside, another [[Shrine Maidens|Shrine Maiden]] went inside to protect [[Lleth]]
+	- Somethings feels off, we fight
 	- LOOT: 1x yellow and 1x green talisman
 
-- Going into the shrine, everything is destroyed and looks discredited. The shrine maiden is tied to a chair, hood over head, talismans on body
-	- Dude with face of pug, looks like a bear, hooves, [[Ghomah]] (?)
+---
+- Inside the shrine...
+	- Everything is destroyed and looks discredited. The shrine maiden is tied to a chair, hood over head, talismans on body
+	- Dude with face of pug, looks like a bear, hooves, named [[Ghomah]] (?)
 		- "Tell [[Oharah]] I said go fuck himself!" - he poofs away and we hear shuffling away
 		- He smashes a yellow and green talisman together, a grey area forming before he jumps in, looks like the [[Suteki]]
 - We smash the talismans the same way
@@ -32,17 +33,10 @@ Approaching the shrine...
 	- [[Levin]] stops [[Terrada]] from coming to the mortal plane... [[Levin]] didn't appreciate what they did in the [[Great War]]
 - Why did [[Oharah]] attack the festival?
 	- He opens a window showing a giant forest, where there are bunch of creatures fighting and regenerating... "Without consumption of people we go rabid...." [[Oharah]] blames him for this... Each [[Yokai]] needs to eat different parts of a human in order to live... Some blood, some flesh, etc.
-- Two icons have awakened in [[Yatari]], Amanzoko and Utori, lightness and darkness
+- Two icons have awakened in [[Yatari]], [[Amanozako]] and [[Komyoryu]], darkness and lightness
 - Two entities clashed, one on a horse of darkness and a blade, the other is flying and is in the form of a dragon
 - [[Wahlen]]'s book is like [[Zhokan]]'s book
 - [[Mako]] and [[Shiori]]
 	- They've gone without the summer dragon for 19 years already.... The boy ([[Akaza]]) needs to become a man
 	- [[Mako]] hasn't been allowed to go out on missions by his father... He wants to be ready badly
 - Tensions rise, [[Samni]] will prepare for a skirmish, [[Oharah]] would take root there
-
-
-8 sp
-goard of sobriety
-ruby of the war-mage
-
-+ 2cp to wahlen

@@ -1,1 +1,3 @@
-The breath of wind
+> [!info] Breath of Wind
+
+Large bird like creature
