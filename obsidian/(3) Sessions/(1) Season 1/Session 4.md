@@ -13,10 +13,6 @@
 ---
 10 day travel 
 
-5 ice sticks
-5 fire damage
-improvised damage 1d6+1
-
 - We see a [[Krasu]], similar to a goblin
 	- Kidnap it and interrogation
 	- [[Javaku]], bramble monster, not a [[Yokai]]

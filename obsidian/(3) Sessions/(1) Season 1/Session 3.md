@@ -9,7 +9,7 @@
 - We meet with [[Mako]]'s and [[Akaza]]'s father, where [[Mako]] gets his first mission with us accompanying him
 	- We are to investigate the town called [[Kaminan]] to the north where there have ben potential [[Yokai]] sightings. We are to determine if this is true or not, and if it is true we are to kill them. 
 	- 25 gp each payout, 50 gold in basic supplies
-	- Meanwhile [[Mako]]'s father and [[Samni]]'s leader is moving to [[Ninnin Gate]] to deal with this potential threat
+	- Meanwhile [[Mako]]'s father and [[Samni]]'s leader is moving to [[Ninnan Gate]] to deal with this potential threat
 
 ---
 - We buy a horse, carriage, and supplies
@@ -22,6 +22,6 @@
 - [[Atidari]], ruler of [[Samni]] and [[Mako]]'s and [[Akaza]]'s father
 
 - We meet [[Mako]]'s and [[Akaza]]'s mother, [[Atzaru]], and she gives us information
-	- Prophecy?: The reincarnation of [[Ryu]] will go into the ruins of [[Taor]] in [[Ninnin Gate]] and emerge to lead us into battle
+	- Prophecy?: The reincarnation of [[Ryu]] will go into the ruins of [[Taor]] in [[Ninnan Gate]] and emerge to lead us into battle
 	- [[Yatari]] is growing restless for war
 

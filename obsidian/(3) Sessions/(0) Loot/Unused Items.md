@@ -4,7 +4,7 @@
 
 
 Items
-- 5 x [[Ice Stick|Ice Sticks]] 
-- 5 x [[Fire Stick|Fire Sticks]]
+- 4 x [[Ice Stick|Ice Sticks]] 
+- 4 x [[Fire Stick|Fire Sticks]]
 - Gourd of sobriety
 - Ruby of the War Mage
