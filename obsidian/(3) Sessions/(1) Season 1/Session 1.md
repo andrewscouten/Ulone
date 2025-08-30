@@ -1,7 +1,7 @@
 # Session 1
 
 - The land of [[Ulone]] was blessed in the land of the mother leaves; Temptation lures us into the leaves shadow.
-- Everyone arrives at a spring festival sponsored and hosted by the [[Clan Talvek]] in [[Saohun]] whose leader is High Lord Admiral [[Samurai Talvek|Talvek]]:
+- Everyone arrives at a spring festival sponsored and hosted by the [[Clan Talvek]] in [[Saohun]] whose leader is High Lord Admiral [[Samurai Talvec|Talvek]]:
 	- We open with a vision from [[Shiori]]: canine beast fights dragon that tunnels down a cavern where the beast stabs the dragon
 		- They talks to their company, they are companions.
 		- Has a shiba inu familiar, [[Akaza]]!
@@ -16,13 +16,13 @@
 
 ---
 
-- The hosting [[Samurai Talvek]] has an announcement, after having his 100 titles announced...
+- The hosting [[Samurai Talvec]] has an announcement, after having his 100 titles announced...
 	- “The time of [[Suteki]] is nigh. Let it be the harrowed moon red in the crimson carrowbird appearance. Let us all rejoice for we are not rulers.” then Talvek slits his throat which drains black blood and beings with fox masks crawl out
 - Combat ensues, toughest enemy dies, we find [7 white ceramic shards] seemingly from a mask; creatures are a type of yokai (other worldly)
 
 ---
 
-- [[Samurai Talvek|Talvek]]’s grandson is taking up the samurai title; his father is no samurai
+- [[Samurai Talvec|Talvek]]’s grandson is taking up the samurai title; his father is no samurai
 - The spring dragon did not pass over
 - [[Akenai Sachio|Akenai]] is missing and alligator lady said they did not have a potion seller on the docket
 - Grandson says he hasn’t heard from their shrine maiden since last week who recently dealt with a yokai incursion and hires us to investigate

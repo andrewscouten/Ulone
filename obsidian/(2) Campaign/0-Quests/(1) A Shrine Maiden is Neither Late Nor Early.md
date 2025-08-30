@@ -1,0 +1,5 @@
+# A Shrine Maiden is Neither Late Nor Early
+
+## Completed 
+
+The heir of clan Talvec, Yari Talvec, has worries about the local shrine maiden not appearing. The party has been hired to go investigate her whereabouts. After arriving at the shrine, the party was stopped by 3 men claiming they were members of a different shrine maiden. After a fight, the party investigated the shrine, finding a small creature and a crazed shrine maiden. The creature fled, slamming two talismans together, one yellow and one green. The party did the same with some they had found transporting them to a different realm where they spoke with Terrada, king of the Yokai. The king claimed that the festival incident and what happened to the shrine maiden was due to another lord of the Yokai, Ohara Sachio, launching attacks. They returned to the shrine with the small yokai creature that was in service of the king named ‘Gooma’ where the shrine maiden was healed. The king offered to have the party join his retinue to stop Ohara but they instead settled on working adjacent to each other and helping where they could.

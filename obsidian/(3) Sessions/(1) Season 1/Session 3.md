@@ -1,7 +1,7 @@
 # Session 3
 
 ---
-- The [[Young Samurai Talvek]] comes in to check in with [[Ceol]]... Did we really go to the [[Suteki]] and meet the [[Terrada|Yokai King]]?
+- The [[Yari Talvec]] comes in to check in with [[Ceol]]... Did we really go to the [[Suteki]] and meet the [[Terrada|Yokai King]]?
 	- This act is strictly against the [[Samurai Code]]
 	- He does not have the authority to protect or punish us... What should our fates be?
 

@@ -1,0 +1,5 @@
+# Superstitions Put to Steel
+
+## Ongoing 
+
+The four were able to pull themselves out of the rushing river, where they finally were able to take a breath. [[Enokaga Aritomi|Enokaga]] revealed to them that they had been captured for nearly half a year, given they were in the NorthEastern part of Ikcho. Not wanting to stay any longer than they had to, the party made their way to a roadside inn after a long day of traveling. The inn keeper was hesitant to let them in given it was the night of [[Veylfall]], a night every quarter of the year where it is believed the more monstrous parts of the world become braver and more viscous. They eventually convinced him and they were let in and got some rest. The innkeeper mentioned his son hadn’t come back and the party offered to find him. Overjoyed, the innkeeper gave Wahlen a good luck charm of Levin and said his son wore its twin. They then set off to find his son at a sacrificial area known as [[Bloodshore Rock]].
