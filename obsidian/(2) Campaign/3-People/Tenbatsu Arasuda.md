@@ -1,0 +1,1 @@
+[[Tekina]] of [[Amanozako]]

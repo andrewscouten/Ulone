@@ -5,16 +5,16 @@
 	- "You know father's madness, he could have just made that up?!"
 - [[Hera]] is worried about her ring, putting it on quickly
 - A samurai from [[Saohun]] knows, old man with a dog thing, and a bearer.
-- [[Paragus]] comes with his beast, checking on [[Hera]]
+- [[Paragus Kou]] comes with his beast, checking on [[Hera]]
 
 ---
 They see a samurai fighting a fledgling that we know from [[Ninnan Gate]]...
-- [[Paragus]] and [[Serai]] join the fight, letting [[Hera]] run
+- [[Paragus Kou]] and [[Serai]] join the fight, letting [[Hera]] run
 - [[Serai]] and [[Hera]]
 	- "How will I find you again?"
 	- "You know where home is."
 	- "I love you..."
-- [[Paragus]] turns into an orange dragon
+- [[Paragus Kou]] turns into an orange dragon
 - [[Serai]] wields her father's blade
 
 ---
@@ -42,17 +42,16 @@ We come to a [[Taor]] ruin...
 - "What advisor betrays his king?"
 - Blade goes into the spine of the book then shuts
 	- [[Hera]]'s feels strength going through
-	- [[Rui]]'s goes fom head to toe swiftness and cold
+	- [[Rui]]'s goes from head to toe swiftness and cold
 	- [[Ceol]]'s hammer, searing fire that now feels painless knowledge
 	- [[Wahlen]]'s knowledgeable weapon 
-	- [[ak]]
 
 ---
 
-[[House of Leotis]], once ruled by samurai, took the inn out, a lot of dead [[Abhuman]]s that were once at the inn.
+[[House Liotus]], once ruled by samurai, took the inn out, a lot of dead [[Abhuman]]s that were once at the inn.
 - [[Lady Ayame Liotus]]
 
-Maggot inn-keeper, covered in hoels...
-- Name is [[Lesion]]
+Maggot inn-keeper, covered in holes...
+- Name is [[Legion]]
 - "I am something [[Levin]] forgot..."
-- [[Veylfall]], the [[Yokai]] became so used to what it was... Humanity built better defences against [[Veylfall]] and resisted the [[Yokai]]
+- [[Veylfall]], the [[Yokai]] became so used to what it was... Humanity built better defenses against [[Veylfall]] and resisted the [[Yokai]]

@@ -1,1 +1,1 @@
-Head of [[Clan Delivon]]
+Head of [[House Delivon]]

@@ -12,7 +12,7 @@ After Separation (AS)
 ---
 Before Separation
 
-// [[Lord Delivon]], head of [[Clan Delivon]] beginning inscription
+// [[Lord Delivon]], head of [[House Delivon]] beginning inscription
 // [[Samni]]’s main chambers, 198 AS, third of day of the second Fall
 
 How was [[Ulone]] formed? Where did the gods come from? Who is [[Ulone]]? What’s [[Levin]]? All wonderful questions. Come, listen to a story passed from my mother’s mother and was even told before that. 
@@ -27,7 +27,7 @@ As I’m sure you know, those four began to root evil in our fulfilling lives. W
 ---
 During Ulone
 
-// [[Lord Delivon]], head of [[Clan Delivon]], beginning inscription
+// [[Lord Delivon]], head of [[House Delivon]], beginning inscription
 //[[Samni]]’s main chambers, 199 AS, twentieth day of third Winter
 
 Fifty years after [[Zahl]]’s appearance, [[Ulone]] was born. We know it was the first of Summer, the day has been debated for centuries so I won’t dare give my opinion. I’m sure the masses would tear me a new one. 
@@ -40,12 +40,12 @@ On the same day he was born, a new god appeared. [[Wiboe]], maiden of war and fa
 ---
 After Separation
 
-// [[Lord Delivon]], head of [[Clan Delivon]], beginning transcription 
+// [[Lord Delivon]], head of [[House Delivon]], beginning transcription 
 // [[Samni]]’s main chambers, 201 AS, third day of the second Spring
 
 After the continents separation, the birth of the [[Itanno]], the disappearance of the [[Elves]], the death of [[Ulone]], and the disappearance of the [[Itanno]], everything fell in line. I guess you could call it the first year of our age, what we mark as 1 AS. [[Ulone]] had three children. [[Samni, the Quick Witted Son|Samni]], [[Yatari, the Faithful Daughter|Yatari]], and [[Ikcho, the Daughter Who Could Craft the World Itself|Ikcho]]. As [[Ulone]] got older he could no longer manage an entire continent, so his children took over, one for each region.[[Samni, the Quick Witted Son]], he was always concerned with how the money flowed. [[Yatari, the Faithful Daughter]], always launching into religious fervor. And [[Ikcho, the Daughter Who Could Craft the World Itself]]. So each region was named after the leaders and we followed their will. Of course [[Ulone]] made the samurai which were the absolute authority above all else… other than [[Levin]] of course. The disappearance of every [[Elves|Elf]] was quite a shock, but not an unwelcome one. They were bringers of chaos, nothing more. The real shock was the death of [[Ulone]]. We hadn’t even considered he could die based on how great he was… but alas. That was a little under two hundred years ago. About a hundred years later, the [[Itanno]] disappeared. We’ve had man hunts for them for the past hundred years and we’ve found absolutely nothing. So we’ve done our best to maintain what they left us. Thankfully the [[Sea Ronin]] have been helping. [[Ikcho]] has been stronger than ever, [[Yatari]] is forever burning with religious fervor, and trade has never been more decadent here. But… with the rising dragons and some dragon cult, the increased, supposedly, yokai attacks, and potential sightings of Oni… I’m becoming worried. Shouldn’t you do something about that?
 
-// [[Lord Delivon]], head of [[Clan Delivon]] requesting intervention
+// [[Lord Delivon]], head of [[House Delivon]] requesting intervention
 // Blessed be the mother leaves
 
 ---

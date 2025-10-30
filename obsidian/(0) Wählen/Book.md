@@ -1,4 +1,4 @@
-# Tome of Hushed whispers
+# Tome of Hushed Whispers
 
 Book, unique 
 

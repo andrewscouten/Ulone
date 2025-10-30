@@ -1,3 +1,11 @@
 - 3 => 4
 	- 
 	- [[Spell Sniper]]: +1 INT
+- 4 => 5
+- 5 => 6
+	- +4 HP = 24
+	- 2x 3rd level spells
+		- Fear
+		- Counter Spell
+	- Fixed Fey Touched
+		- Misty Step and Sleep always prepared
