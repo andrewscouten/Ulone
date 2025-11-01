@@ -22,7 +22,8 @@ We are on our back way to the [[Hideaway]]...
 
 At the [[Hideaway]]...
 - [[Ceol]] repairs armor and weapons, removing the sigil of [[Samni]] on [[Mako]]'s armor
-- [[Rui]] gets pulled aside by [[Yari Talvec|Yari]]... "You do know you're traveling with... *motions to [[Hera]]*". 
-- 
+- [[Rui]] gets pulled aside by [[Yari Talvec|Yari]]
+	- You do know you're traveling with... *motions to [[Hera]]*"
+	- 
 
 
