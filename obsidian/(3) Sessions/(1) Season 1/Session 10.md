@@ -14,7 +14,7 @@
 ---
 - See a man in whiteish black armor running past...
 	- He's an honor guard from [[Yatari]], we follow him
-	- [[Hera]] recognizes [[Khazera]], the [[Khazera|Tekina of the Wind]]
+	- [[Hera]] recognizes [[Kazera]], the [[Kazera|Tekina of the Wind]]
 	- A man is pleading for his life, he brought someone to [[Lostwing]]... They are looking for a [[Tekina]]
 	- The captain we fought is a blessed of [[Tengu]]
 		- Where [[Mako]] is the blessed of [[Ryu]]

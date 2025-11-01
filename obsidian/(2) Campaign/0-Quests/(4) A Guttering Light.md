@@ -1,3 +1,6 @@
+---
+icon: LiBook
+---
 # A Guttering Light
 
 ## Complete

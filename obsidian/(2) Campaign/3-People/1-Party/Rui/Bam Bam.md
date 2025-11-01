@@ -1,3 +1,6 @@
+---
+icon: LiAsterisk
+---
 # Bam Bam
 
 ## Alive

@@ -1,4 +1,12 @@
+---
+aliases:
+  - Wahlen Takuta
+  - Wahlen Takuta, Sigillite of Terada
+icon: 💫
+---
+
 # Wahlen
+
 
 ---
 Player: Andrew (he/they)

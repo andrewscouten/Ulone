@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "881630c4bc969a34",
+        "id": "09a6df8b49378c0f",
         "type": "tabs",
         "children": [
           {
-            "id": "94430ee94bd7e291",
+            "id": "aa01cfb8be4b3ae8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(3) Sessions/(1) Season 1/Session 12.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 12"
             }
           }
         ]
@@ -84,12 +88,11 @@
               "title": "Session 6"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 338.5
   },
   "right": {
     "id": "212c5711df309aab",
@@ -179,34 +182,42 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8c75f067ebbe2b19",
+  "active": "aa01cfb8be4b3ae8",
   "lastOpenFiles": [
+    "Ulone Lore.md",
+    "index.md",
+    "(3) Sessions/(1) Season 1/Session 12.md",
+    "(3) Sessions/(1) Season 1/Session 11.md",
+    "(3) Sessions/(1) Season 1/Session 10.md",
+    "(3) Sessions/(1) Season 1/Session 9.md",
     "(3) Sessions/(1) Season 1/Session 8.md",
     "(3) Sessions/(1) Season 1/Session 7.md",
+    "(3) Sessions/(1) Season 1/Session 6.md",
+    "(3) Sessions/(1) Season 1/Session 5.md",
+    "(3) Sessions/(1) Season 1/Session 4.md",
+    "(3) Sessions/(1) Season 1/Session 3.md",
     "(3) Sessions/(1) Season 1/Session 2.md",
-    "(3) Sessions/(1) Season 1/Session 11.md",
-    "(2) Campaign/1-Entities/Oharah.md",
-    "(3) Sessions/(1) Season 1/Session 9.md",
-    "(3) Sessions/(1) Season 1/Session 10.md",
-    "(0) Wählen/Book.md",
-    "(2) Campaign/1-Entities/Aikons/Ryu.md",
-    "(2) Campaign/1-Entities/Aikons/Namazu.md",
-    "(2) Campaign/1-Entities/Aikons/Orochi.md",
-    "(2) Campaign/1-Entities/Aikons/Tengu.md",
-    "(2) Campaign/1-Entities/Aikons/Tsuchigomo.md",
-    "(2) Campaign/1-Entities/Aikons/Komyoryu.md",
-    "(2) Campaign/1-Entities/Aikons/Amanozako.md",
-    "(2) Campaign/4-Locations/Ulone/Yatari/Yatari.md",
-    "(2) Campaign/2-Factions/Emerging/Hikari Seiji.md",
-    "Shino Korin Hikari.md",
-    "Wyvern.md",
-    "(2) Campaign/3-People/Timbatzu Azuna.md",
-    "(2) Campaign/3-People/Shiro Akuagan.md",
-    "(2) Campaign/3-People/Khazera.md",
-    "The Whirlwind.md",
-    "Lostwing.md",
-    "(0) Wählen/Awakening Info.md",
-    "(0) Wählen/Level Up.md",
+    "(3) Sessions/(1) Season 1/Session 1.md",
+    "(2) Campaign/5-Misc/Yokoku.md",
+    "(2) Campaign/5-Misc/Veylflood.md",
+    "(2) Campaign/5-Misc/Veylfall.md",
+    "(2) Campaign/5-Misc/Veil Lost.md",
+    "(2) Campaign/5-Misc/Veil.md",
+    "(2) Campaign/5-Misc/Great War.md",
+    "(2) Campaign/5-Misc/Great Shattering.md",
+    "(2) Campaign/5-Misc/Races/Yuan-Ti.md",
+    "(2) Campaign/5-Misc/Races/Yokai.md",
+    "(2) Campaign/5-Misc/Races/Triton.md",
+    "(2) Campaign/5-Misc/Races/Tieflings.md",
+    "(2) Campaign/5-Misc/Races/Tabaxi.md",
+    "(2) Campaign/5-Misc/Items",
+    "(0) Files/assets/praxis.png",
+    "(0) Files/assets/Forgotten Lands Map.png",
+    "(0) Files/assets/ulone_map.png",
+    "(2) Campaign/4-Locations/Ulone/Forgotten Lands",
+    "(0) Wählen/Wählen.pdf",
+    "(2) Campaign/3-People/3-Important",
+    "(2) Campaign/3-People/3-Important/Tekina",
     "(0) Wählen/Wählen.pdf.sb-f8939e80-6S3Izm",
     "(0) Wählen/SECRETS",
     "(0) Wählen/Wählen.pdf.sb-f8939e80-fdXgEA",
@@ -214,11 +225,6 @@
     "(0) Files/assets/portrait_ceol.png",
     "(0) Wählen/Wählen.pdf.sb-f8939e80-xMyWNz",
     "(2) Campaign/4-Locations/Ulone/Ikcho/POI",
-    "(2) Campaign/2-Factions/Houses",
-    "(2) Campaign/2-Factions/Emerging",
-    "(0) Wählen/Wählen.pdf.sb-f8939e80-zkXbBA",
-    "(2) Campaign/0-Quests",
-    "(2) Campaign/3-People/1-Party/Hera",
     "(0) Files/assets/party/wahlen/ref_spell_sniper.png",
     "(0) Files/assets/party/wahlen/portrait_wahlen.png",
     "(0) Files/assets/maps/ulone.jpg",

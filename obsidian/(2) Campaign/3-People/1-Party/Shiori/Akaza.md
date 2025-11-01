@@ -1,6 +1,7 @@
 ---
 aliases:
   - Akaza Shuki
+icon: LiAsterisk
 ---
 # Akaza Shuki
 

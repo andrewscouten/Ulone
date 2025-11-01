@@ -1,3 +1,6 @@
+---
+icon: LiBook
+---
 # A Chance Encounter
 
 ## Ongoing

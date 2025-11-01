@@ -1,6 +1,7 @@
 ---
 aliases:
   - Hera Aclassi
+icon: 👿
 ---
 # Hera
 
@@ -14,7 +15,7 @@ Player: Alli (she/her)
 > ###### Bio
 > |  |  |
 > | --- | --- |
-> | Pronouns: | She/Her? |
+> | Pronouns: | She/Her |
 
 ## Brand Beneath the Vey’l
 

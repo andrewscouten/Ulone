@@ -43,8 +43,10 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/Users/andrew/Desktop/Ulone/docs",
+  "exportPath": "/Users/andrew/Desktop/D&D/Ulone/docs",
   "filesToExport": [
-    []
+    [
+      "all"
+    ]
   ]
 }

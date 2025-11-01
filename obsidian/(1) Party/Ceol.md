@@ -1,9 +1,10 @@
+---
+icon: 🔥
+---
 # Ceol
 
----
 Player: Ceol (he/him?)
 
----
 > [!infobox|center wfull]
 > # Ceol
 > ![[portrait_ceol.png|portrait]]

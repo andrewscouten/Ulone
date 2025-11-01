@@ -1,3 +1,6 @@
+---
+icon: LiBook
+---
 # A Shrine Maiden is Neither Late Nor Early
 
 ## Completed 

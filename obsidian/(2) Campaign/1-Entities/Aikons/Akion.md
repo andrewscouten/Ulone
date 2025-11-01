@@ -1,5 +1,6 @@
 ---
 aliases:
   - Akions
+icon: LiBook
 ---
 

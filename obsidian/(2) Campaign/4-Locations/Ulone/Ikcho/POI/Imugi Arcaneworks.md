@@ -1,4 +1,5 @@
 ---
 aliases:
   - Arcaneworks
+icon: LiFlag
 ---

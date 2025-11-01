@@ -1,6 +1,7 @@
 ---
 aliases:
   - Mako Shuki
+icon: LiAsterisk
 ---
 
 [[Shiori]]'s brother

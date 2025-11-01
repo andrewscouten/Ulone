@@ -1,3 +1,6 @@
+---
+icon: LiBook
+---
 
 # Under New Management
 

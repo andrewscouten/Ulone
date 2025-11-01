@@ -6,25 +6,25 @@
 Party headed towards [[Iron Blossom Keep]]...
 - The land looks like a desert, which is wrong... It should be lush this time of year
 - [[Himoto]] was claimed to be busy
-- [[Ganra|Ganra Dokugan]], [[Tekina]] of [[Tsuchigomo]], greets us, trusting that [[Hera]] would be safe
+- [[Ganra Dokugan|Ganra Dokugan]], [[Tekina]] of [[Tsuchigomo]], greets us, trusting that [[Hera]] would be safe
 
 ---
 [[Wahlen]] feels the book give him a message...
 
 --- 
-[[Hera]] talks with [[Ganra|Ganra Dokugan]]...
+[[Hera]] talks with [[Ganra Dokugan|Ganra Dokugan]]...
 - She is given a magic crystal that shoots out a beam, normal people can use it, it doesn't feel limited... It's a part of a [[Taor]] ruin
 	- [[Himoto]], [[Hera]]'s father, is in charge of this enterprise. But he has not gotten his daughters involved
 	- It is "in the works" that this power could be used on a larger scale (mega death star vibes)
 	- [[Hera]] gets a crystal, giving her eldritch blast for free?!
 
-[[Hera]] and [[Ganra]] enter the summit...
+[[Hera]] and [[Ganra Dokugan]] enter the summit...
 - People are already arguing: [[Gunshi Kage]] (military strategist, old man), Arbiter Abidia [[Hashin]], Second Gunshi Arubia (Ikcho)
 - Not a peace treaty deal, too many military people... People are arguing, some promised people in battle but not delivering, more and more arguing
 - As the screaming dies down, a woman speaks up
 	- [[Dwarves]] of [[Ikcho]] drove back enemies in the first war
-- [[Ganra]] warns us to LEAVE, there will be a battle
-- [[Khazera]], "The Breath of Wind", states that [[Ganra]] is going to hunt "The Snow Queen" now
+- [[Ganra Dokugan]] warns us to LEAVE, there will be a battle
+- [[Kazera]], "The Breath of Wind", states that [[Ganra Dokugan]] is going to hunt "The Snow Queen" now
 
 ---
 A full battle breaks out, [[Ikcho]] getting pushed back...
@@ -60,8 +60,8 @@ We arrive at a place that a lot of people have gathered, lot of bearers
 
 [[Paragus Kou]] meets with the party...
 - [[Wahlen]] tells him about the dream
-- [[Ceol]] recounts that 2 icons of the same element is unheard of, he fought in a war with [[Ulone]]
-- [[Ganra]] is mentioned, maybe they are working with them, the [[Tekina]] of the [[Kagenami]]
+- [[Ceol]] recounts that 2 icons of the same element is unheard of, he fought in a war with [[(2) Campaign/1-Entities/Ulone]]
+- [[Ganra Dokugan]] is mentioned, maybe they are working with them, the [[Tekina]] of the [[Kagenami]]
 - [Hera]] asks about [[Paragus Kou]]... 
 	- [[Paragus Kou]] is a fugitive from [[Yatari]], [[Samni]], and [[Ikcho]] and the [[Kagenami]]
 	- He wants to understand the [[Veylflood]]s and get peace to [[Bearers]]

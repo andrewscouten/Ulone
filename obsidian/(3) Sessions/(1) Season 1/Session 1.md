@@ -1,7 +1,7 @@
 # Session 1
 
-- The land of [[Ulone]] was blessed in the land of the mother leaves; Temptation lures us into the leaves shadow.
-- Everyone arrives at a spring festival sponsored and hosted by the [[House Talvek]] in [[Saohun]] whose leader is High Lord Admiral [[Samurai Talvec|Talvek]]:
+- The land of [[(2) Campaign/1-Entities/Ulone]] was blessed in the land of the mother leaves; Temptation lures us into the leaves shadow.
+- Everyone arrives at a spring festival sponsored and hosted by the [[House Talvec]] in [[Saohun]] whose leader is High Lord Admiral [[Samurai Talvec|Talvek]]:
 	- We open with a vision from [[Shiori]]: canine beast fights dragon that tunnels down a cavern where the beast stabs the dragon
 		- They talks to their company, they are companions.
 		- Has a shiba inu familiar, [[Akaza]]!

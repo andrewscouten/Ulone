@@ -1,6 +1,7 @@
 ---
 aliases:
   - Akion of Light
+icon: LiEye
 ---
 > [!info] The Blinding
 

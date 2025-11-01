@@ -1,3 +1,6 @@
+---
+icon: LiBook
+---
 Similar to bearers, the Tekina are born magical but are given special privileges as it is said that the power of Ulone or one of his children flows through them.
 
 “And behold, eight wardens of my power. Fire, Earth, Water, Ice, Light, Darkness, Wind, and Lightning.” -Ulone, champion of Levin

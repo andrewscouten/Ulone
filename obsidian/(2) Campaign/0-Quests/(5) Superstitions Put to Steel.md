@@ -1,3 +1,6 @@
+---
+icon: LiBook
+---
 # Superstitions Put to Steel
 
 ## Completed 

@@ -1,4 +1,5 @@
 ---
 aliases:
   - Ikcho
+icon: LiAsterisk
 ---

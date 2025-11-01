@@ -1,3 +1,6 @@
+---
+icon: LiCoins
+---
 
 
 - A handful of [[Yellow Talismans]] and [[Green Talismans]]

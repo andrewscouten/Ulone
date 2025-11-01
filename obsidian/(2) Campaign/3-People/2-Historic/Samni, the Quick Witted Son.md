@@ -1,4 +1,5 @@
 ---
 aliases:
   - Samni
+icon: LiAsterisk
 ---
