@@ -12,7 +12,7 @@
       "LiGroup",
       "LiBook"
     ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIconsSize": 15,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -20,7 +20,7 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
