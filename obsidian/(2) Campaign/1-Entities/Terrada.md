@@ -4,3 +4,4 @@ aliases:
   - King of the Yokai
 icon: LiEyeOff
 ---
+Sephoriph looking

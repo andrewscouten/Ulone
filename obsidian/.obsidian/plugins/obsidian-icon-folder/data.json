@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFlag",
+      "LiEye",
+      "LiAsterisk",
       "LiLayoutGrid",
       "LiCoins",
       "LiCrown",
@@ -35,7 +38,6 @@
     "useInternalPlugins": false
   },
   "(2) Campaign/3-People/3-Important/Lady Ayame Liotus.md": "LiAsterisk",
-  "(2) Campaign/3-People/3-Important/Atidari.md": "LiAsterisk",
   "(2) Campaign/3-People/3-Important/Tekina/Arasuda Tenbatsu.md": "LiEye",
   "(2) Campaign/3-People/3-Important/Tekina/Ganra Dokugan.md": "LiEye",
   "(2) Campaign/3-People/3-Important/Tekina/Kazera.md": "LiEye",
@@ -121,12 +123,17 @@
   "Ulone Lore.md": "LiBook",
   "(3) Sessions/(0) Loot/Unused Items.md": "LiCoins",
   "(3) Sessions/(0) Loot/Session 8 Loot.md": "LiCoins",
-  "(2) Campaign/4-Locations/Ulone/Ulone.md": "LiLayoutGrid",
   "(2) Campaign/0-Quests/(0) Onwards to Spring.md": "LiBook",
   "(2) Campaign/0-Quests/(1) A Shrine Maiden is Neither Late Nor Early.md": "LiBook",
   "(2) Campaign/0-Quests/(2) Under New Management.md": "LiBook",
   "(2) Campaign/0-Quests/(3) I Bid That Flames Return.md": "LiBook",
   "(2) Campaign/0-Quests/(4) A Guttering Light.md": "LiBook",
   "(2) Campaign/0-Quests/(5) Superstitions Put to Steel.md": "LiBook",
-  "(2) Campaign/0-Quests/(6) A Chance Encounter.md": "LiBook"
+  "(2) Campaign/0-Quests/(6) A Chance Encounter.md": "LiBook",
+  "(2) Campaign/4-Locations/Ulone/Ulone (Land).md": "LiLayoutGrid",
+  "(2) Campaign/3-People/1-Party/Hera/Tsuga Kitakuri.md": "LiAsterisk",
+  "(2) Campaign/3-People/Hinatsuru Shuki.md": "LiAsterisk",
+  "(2) Campaign/1-Entities/Guardian.md": "LiEye",
+  "(2) Campaign/3-People/3-Important/Atidari Shuki.md": "LiAsterisk",
+  "(2) Campaign/4-Locations/Ulone/Samni/Bulga.md": "LiFlag"
 }

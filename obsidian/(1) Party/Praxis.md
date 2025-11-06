@@ -17,4 +17,4 @@ Player: Rowan (they/them/he/him)
 
 ## First Impressions
 
-- 
+- Short black [[Tabaxi]] with sharp yellow eyes, frazzled hair, mad at [[Paragus Kou|Paragus]]

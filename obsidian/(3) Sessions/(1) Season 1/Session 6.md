@@ -1,6 +1,6 @@
 
 ---
-[[Wahlen]] remembers the words from the person he saw that disappeared a [[Ninnan Gate]]...
+[[Wahlen]] remembers the words from the person he saw that disappeared [[Ninnan Gate]]...
 - "We have found you" in words spoken by unknown man
 
 ---

@@ -7,4 +7,3 @@
 
 ---
 - We arrive at [[Ninnan Gate]]
-	- .

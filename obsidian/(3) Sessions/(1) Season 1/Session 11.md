@@ -27,7 +27,7 @@ We fight [[Kazera]]...
 
 "There you are"
 Reading letter
-"Lord Takuta, as my advisor retires if you are my next top candidate... You will be the youngest inducted, [[Wahlen|Wahlen Takuta, Sigillite of Terada]], pure silver hair toat goest to shoulders, 
+"Lord Takuta, as my advisor retires if you are my next top candidate... You will be the youngest inducted, [[Wahlen|Wahlen Takuta, Sigillite of Terada]], pure silver hair that goes to shoulders,
 
 Reading letter of friend?
 [[Lord Sachio]], tactical wit did bring doubt, but without it... it was highly unlikely that we would live. [[Oharah|Warmaster Oharah Sachio]]

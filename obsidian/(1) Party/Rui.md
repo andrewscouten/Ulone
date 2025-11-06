@@ -1,14 +1,14 @@
 ---
 icon: ⛄
+aliases:
+  - Babk
 ---
 # Rui
 
----
 Player: Marlo (she/her?)
 
----
 > [!infobox|center wfull]
-> # Rui
+> # Rui Babk
 > 
 > ###### Bio
 > |  |  |

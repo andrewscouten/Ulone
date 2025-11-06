@@ -18,10 +18,8 @@
 	- [[Akaza]] and [[Mako]] play Yahtzee
 
 ---
-
-- [[Atidari]], ruler of [[Samni]] and [[Mako]]'s and [[Akaza]]'s father
-
-- We meet [[Mako]]'s and [[Akaza]]'s mother, [[Atzaru]], and she gives us information
+- [[Atidari Shuki]], ruler of [[Samni]] and [[Mako]]'s and [[Akaza]]'s father
+- We meet [[Mako]]'s and [[Akaza]]'s mother, [[Hinatsuru Shuki]], and she gives us information
 	- Prophecy?: The reincarnation of [[Ryu]] will go into the ruins of [[Taor]] in [[Ninnan Gate]] and emerge to lead us into battle
 	- [[Yatari]] is growing restless for war
 
