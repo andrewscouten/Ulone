@@ -1,0 +1,4 @@
+---
+aliases:
+  - Aikon of Inferno
+---

@@ -4,4 +4,12 @@ aliases:
   - King of the Yokai
 icon: LiEyeOff
 ---
-Sephoriph looking
+
+
+## About
+
+Current king of the [[Yokai]]
+
+### Appearance
+
+Kitsune, fox ears, silver hair going to hips (Sephoriph looking)
