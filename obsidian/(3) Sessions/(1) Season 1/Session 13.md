@@ -37,4 +37,6 @@ Threat level extremeus... Deploying [[Tsuchiga]]
 - Black figure with 8 wings, each wing looks different. The figure has a light behind it, almost divine
 - [[Wahlen]]
 	- Black tufts of hair beneath the cloak, who are you, you, we...
-	- 
+	- Starts screaming, fights himself, accepts that he is the 2nd icon of fire... [[Yamakaen]]... the one who killed [[Akaza]]
+	- Group has a heart to heart
+	- Found a combination lock on the floor, similar to the one. when when we got imprisoned
