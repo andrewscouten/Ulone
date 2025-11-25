@@ -17,6 +17,6 @@
 	- [[Hera]] recognizes [[Kazera]], the [[Kazera|Tekina of the Wind]]
 	- A man is pleading for his life, he brought someone to [[Lostwing]]... They are looking for a [[Tekina]]
 	- The captain we fought is a blessed of [[Tengu]]
-		- Where [[Mako]] is the blessed of [[Ryu]]
+		- Where [[Macko]] is the blessed of [[Ryu]]
 
 ---

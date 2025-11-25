@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "f59ea14df5fc8dd2",
-        "type": "tabs",
+        "id": "c98e4d8d77936fac",
+        "type": "split",
         "children": [
           {
-            "id": "7a303eebe1034c7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(3) Sessions/(1) Season 1/Session 14.md",
-                "mode": "source",
-                "source": false
+            "id": "a55a142197c8994a",
+            "type": "tabs",
+            "dimension": 54.92857142857142,
+            "children": [
+              {
+                "id": "90bf3a8ce3849498",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "(2) Campaign/0-Quests/(8) Inferno in the Night.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "(8) Inferno in the Night"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Session 14"
-            }
+              {
+                "id": "4d33bb4db26955ef",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.10.3"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.10.3"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "ffbc287e3a6d790a",
+            "type": "tabs",
+            "dimension": 45.07142857142858,
+            "children": [
+              {
+                "id": "9a006aef0a2aa80d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "(2) Campaign/2-Factions/Houses/House Shuki.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "House Shuki"
+                }
+              },
+              {
+                "id": "2c6ddafeb5774583",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "(2) Campaign/3-People/Kou's/Paragus Kou.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Paragus Kou"
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -182,49 +239,49 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "7a303eebe1034c7a",
+  "active": "4d33bb4db26955ef",
   "lastOpenFiles": [
-    "(3) Sessions/(0) Loot/Unused Items.md",
-    "(2) Campaign/5-Misc/Races/Fire Stick.md",
-    "(3) Sessions/(0) Loot/Session 8 Loot.md",
-    "(3) Sessions/(1) Season 1/Session 14.md",
-    "(0) Wählen/Level Up.md",
-    "(0) Wählen/Info/Sculpt Spells.md",
+    "(2) Campaign/0-Quests/(9) Awaken....md",
+    "(2) Campaign/0-Quests/(10) The Wages of Guilt.md",
+    "(2) Campaign/0-Quests/(11) Where It All Began.md",
+    "(2) Campaign/0-Quests/(8) Inferno in the Night.md",
+    "(2) Campaign/0-Quests/(7) Fanning Embers.md",
+    "(2) Campaign/0-Quests/(6) A Chance Encounter.md",
+    "(2) Campaign/0-Quests/(5) Superstitions Put to Steel.md",
+    "(2) Campaign/0-Quests/(12) Righting Wrongs.md",
+    "(2) Campaign/2-Factions/Houses/House Aclassi.md",
+    "(2) Campaign/3-People/1-Party/Shiori/Macko.md",
+    "(2) Campaign/3-People/1-Party/Shiori/Akira.md",
+    "(2) Campaign/3-People/3-Important/Tekina/Tekina of Ice.md",
+    "(2) Campaign/1-Entities/Aikons/Aikon.md",
+    "(2) Campaign/3-People/Pale Blades/Wyvern.md",
+    "(2) Campaign/3-People/Pale Blades/Aevis.md",
+    "(2) Campaign/3-People/Pale Blades/Biast.md",
+    "(2) Campaign/3-People/Pale Blades",
+    "(2) Campaign/3-People/Pale Blades/Pale Blades.md",
+    "(2) Campaign/2-Factions/Holy Empire.md",
+    "(2) Campaign/3-People/3-Important/Tekina/Kazera.md",
+    "(2) Campaign/4-Locations/Ulone/Ikcho/POI/Iron Blossom Keep.md",
+    "(2) Campaign/5-Misc/Races/Abhuman.md",
+    "(2) Campaign/4-Locations/Ulone/Ikcho/POI/Bloodshore Rock.md",
+    "(2) Campaign/5-Misc/Veylfall.md",
+    "(2) Campaign/0-Quests/(4) A Guttering Light.md",
+    "(2) Campaign/0-Quests/(3) I Bid That Flames Return.md",
+    "(2) Campaign/0-Quests/(2) Under New Management.md",
+    "(2) Campaign/3-People/Talvec's",
+    "(2) Campaign/3-People/Shuki's",
+    "(2) Campaign/3-People/Kou's",
+    "(2) Campaign/5-Misc/Monsters",
     "Sculpt Spells.png",
-    "(3) Sessions/(1) Season 1/Session 13.md",
-    "(3) Sessions/(1) Season 1/Session 12.md",
-    "(2) Campaign/1-Entities/Terrada.md",
-    "(2) Campaign/1-Entities/Pantheon/Mondli.md",
-    "(3) Sessions/(1) Season 1/Session 6.md",
-    "(2) Campaign/1-Entities/Pantheon/Kam-Zum.md",
-    "(2) Campaign/1-Entities/Pantheon/Levin.md",
-    "(2) Campaign/1-Entities/Pantheon/Wiboe.md",
-    "(2) Campaign/1-Entities/Pantheon/Zahl.md",
-    "(0) Wählen/Wählen.pdf",
-    "(0) Wählen/Book.md",
-    "[Yuki-onna.md",
-    "(2) Campaign/1-Entities/Aikons/Yuki-onna.md",
-    "(3) Sessions/(1) Season 1/Session 8.md",
-    "(2) Campaign/1-Entities/Aikons/Komyoryu.md",
-    "(2) Campaign/1-Entities/Aikons/Namazu.md",
-    "(2) Campaign/1-Entities/Aikons/Okami.md",
-    "(2) Campaign/1-Entities/Aikons/Orochi.md",
-    "(2) Campaign/1-Entities/Aikons/Ryu.md",
-    "(2) Campaign/1-Entities/Aikons/Tengu.md",
-    "(2) Campaign/1-Entities/Aikons/Tsuchigomo.md",
-    "(0) Wählen/Wählen.pdf.sb-258e183b-ggCSBN",
     "(2) Campaign/3-People/1-Party/Praxis",
     "(0) Files/assets/ceol_meme.png",
+    "(0) Wählen/Wählen.pdf",
     "(2) Campaign/5-Misc/Items",
     "(0) Files/assets/praxis.png",
     "(0) Files/assets/Forgotten Lands Map.png",
     "(0) Files/assets/ulone_map.png",
     "(2) Campaign/4-Locations/Ulone/Forgotten Lands",
     "(2) Campaign/3-People/3-Important",
-    "(2) Campaign/3-People/3-Important/Tekina",
-    "(0) Wählen/Wählen.pdf.sb-f8939e80-6S3Izm",
-    "(0) Wählen/SECRETS",
-    "(0) Wählen/Wählen.pdf.sb-f8939e80-fdXgEA",
     "(0) Files/assets/ref_hera.png",
     "(0) Files/assets/portrait_ceol.png",
     "(0) Files/assets/party/wahlen/ref_spell_sniper.png",

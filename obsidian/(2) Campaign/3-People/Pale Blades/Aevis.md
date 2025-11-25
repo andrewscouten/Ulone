@@ -1,0 +1,1 @@
+Scout of the [[Pale Blades]]

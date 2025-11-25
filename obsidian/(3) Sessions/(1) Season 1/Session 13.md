@@ -5,7 +5,7 @@ Inside the [[Taor]] ruin at [[Ninnan Gate]]...
 - 3 figures of the same height, another facing the group threateningly, one holds a sword
 - Another image of one on the ground, and one stabbing a sword through them
 - Looking up there are stars blinking... blinking in time with [[Wahlen]]'s heart beat... roots that are out of place coming down from the sides of the wall... roots of [[Levin]]
-- Pedestal of 8 crystals on the ground with the [[Akion]]s.. A voice says "assistance required"
+- Pedestal of 8 crystals on the ground with the [[Aikon]]s.. A voice says "assistance required"
 
 	1 [[Tengu]]
 	2 [[Ryu]]

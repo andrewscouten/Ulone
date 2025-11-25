@@ -11,9 +11,9 @@ We are on our back way to the [[Hideaway]]...
 ---
 [[Wahlen]] is in a makeshift dungeon dreaming...
 - In the shower, water cold. Speaker translates as words come through announcing my arrival. "Fire fox, fire fox"... meaning you are needed in the cockpit
-- In the cockpit there is crystals with projections of status. [[Terrada]] is on the helm, high alert with fox-like features; [[Oharah]] is holding their blade tapping their foot. Projection in front of [[Terrada]], 6 crystals with names of the [[Akion|Akions]]. [[Tengu]] and [[Ryu]] are down.
+- In the cockpit there is crystals with projections of status. [[Terrada]] is on the helm, high alert with fox-like features; [[Oharah]] is holding their blade tapping their foot. Projection in front of [[Terrada]], 6 crystals with names of the [[Aikon|Akions]]. [[Tengu]] and [[Ryu]] are down.
 - Blob of flesh, metal, and stone... 2 crystals on it: [[Yamakaen]], [[Okami]]
-- [[Tsuchigomo]] has been eliminated, [[Yuki-onna]] has been eliminated... cooling systems offline... all [[Akion|Akions]] go offline... [[Okami]] online
+- [[Tsuchigomo]] has been eliminated, [[Yuki-onna]] has been eliminated... cooling systems offline... all [[Aikon|Akions]] go offline... [[Okami]] online
 - We get to the escape pods, jet out, ship destroyed, among the stars
 - Dream cuts to current [[Ulone (Land)]], hard to breathe, massive blade in kidney, poison going through body, [[Akenai Sachio|Akenai]] is trying to heal [[Wahlen]]. [[Oharah]] runs towards [[Wahlen]], stabbing a shard into his heart... [[Oharah]] does an operation, dropping part of [[Wahlen]]'s heart on the ground. [[Oharah]] grabs the half of heart and the memory ends
 
@@ -24,7 +24,7 @@ We are on our back way to the [[Hideaway]]...
 
 ---
 At the [[Hideaway]]...
-- [[Ceol]] repairs armor and weapons, removing the sigil of [[Samni]] on [[Mako]]'s armor
+- [[Ceol]] repairs armor and weapons, removing the sigil of [[Samni]] on [[Macko]]'s armor
 - [[Rui]] gets pulled aside by [[Yari Talvec|Yari]]
 	- You do know you're traveling with... *motions to [[Hera]]*
 	- [[Hera]]'s family is a HUGE deal
@@ -35,7 +35,7 @@ At the [[Hideaway]]...
 - One is abhuman (silver hair, horns) and one sets some captors on fire (black hair)
 - "You will release him... or you will die."
 
-[[Mako]] and [[Wahlen]] have a heated aside...
+[[Macko]] and [[Wahlen]] have a heated aside...
 
 [[Praxis]] slides into the group...
 - Mad at [[Paragus Kou|Paragus]]
@@ -55,5 +55,5 @@ We arrive at a town named [[Bulga]], [[Samni]]i...
 - Someone is looking for [[Rui]] and sees the rest of us...[[Hinatsuru Shuki]] invites us to their home
 - There is some blue flashes of light happening at [[Ninnan Gate]], a blue like the [[Guardian]] left
 - Those who pray every day... the emperor says they should die 
-- 2nd [[Akion]] of fire will emerge from the [[Taor]] ruins at [[Ninnan Gate]] to fight [[Ryu]]?
+- 2nd [[Aikon]] of fire will emerge from the [[Taor]] ruins at [[Ninnan Gate]] to fight [[Ryu]]?
 

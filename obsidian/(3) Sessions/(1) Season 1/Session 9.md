@@ -36,9 +36,9 @@ A full battle breaks out, [[Ikcho]] getting pushed back...
 
 A giant hand comes out from the ground, [[Tsuchigomo]]
 - A small crystal forms in the sky as a blizzard comes, a catlike [[Yuki-onna]] bursting from the crystal
-- Cannons from [[Ikcho]] fire at the [[Yuki-onna]], [[Tsuchigomo]] approaching... Two [[Akion]] fight, an event that has only happened once in history
+- Cannons from [[Ikcho]] fire at the [[Yuki-onna]], [[Tsuchigomo]] approaching... Two [[Aikon]] fight, an event that has only happened once in history
 
-We fall, running from the battle of [[Akion]]s
+We fall, running from the battle of [[Aikon]]s
 - [[Hera]] and [[Rui]] fall behind, the [[Yuki-onna]] hovering above them... They dodge the ice shards before running through the footprints of [[Tsuchigomo]]
 - [[Ceol]] and [[Hera]] fall and become unconscious
 - [[Wyvern]] heals everyone 
@@ -47,7 +47,7 @@ We fall, running from the battle of [[Akion]]s
 We fight the [[Tekina]] of [[Yuki-onna]], trying to flee from battle...
 - [[Rui]] seems to have a connection to the [[Yuki-onna]], wanting us to stop fighting but we don't
 - We kill the [[Tekina]] of the [[Yuki-onna]], [[Rui]]'s head getting grabbed beforehand and information being transferred... She screams, recoiling in pain
-- [[Mako]] is here, aka [[Wyvern]]... He defends us against the other two bearers
+- [[Macko]] is here, aka [[Wyvern]]... He defends us against the other two bearers
 
 Greenish orange dragon saves us from reinforcements...
 - A man on all fours walks out... [[Paragus Kou]] also joins us...
@@ -75,7 +75,7 @@ We arrive at a place that a lot of people have gathered, lot of bearers
 
 --- 
 [[Akenai Sachio|Akenai]] does not officialy exist, but the ruler of what [[Yatari]] is now, [[Timbatzu Azuna]] the ruler, were affiliated... After investigating, [[Paragus Kou]] is no longer allowed in [[Yatari]]. They were doing something with the [[Taor]] ruins
-- 2nd [[Akion]] of fire right outside of a [[Taor]] ruin
+- 2nd [[Aikon]] of fire right outside of a [[Taor]] ruin
 - [[Iron works]] is making crystals made out of [[Taor]] ruins
 
-[[Akion]] of fire fighting a red-aired man made of steel, land splits in half, [[Timbatzu Azuna]] WASN'T ALWAYS A [[Tekina]], they sacrificed many [[Oni]]
+[[Aikon]] of fire fighting a red-aired man made of steel, land splits in half, [[Timbatzu Azuna]] WASN'T ALWAYS A [[Tekina]], they sacrificed many [[Oni]]

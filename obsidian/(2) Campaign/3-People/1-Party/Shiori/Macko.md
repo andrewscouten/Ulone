@@ -1,6 +1,7 @@
 ---
 aliases:
-  - Mako Shuki
+  - Wyvern
+  - Macko Shuki
 icon: LiAsterisk
 ---
 

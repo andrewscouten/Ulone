@@ -1,10 +1,10 @@
 - The party has a morning greeting to one another in the barn they were staying in...
-	- [[Shiori]] is awoken my [[Mako]]. [[Mako]] is excited about their new job! 
+	- [[Shiori]] is awoken my [[Macko]]. [[Macko]] is excited about their new job! 
 	- [[Shiori]] is worried about [[Akaza]], saying he must prove himself before he can join us... "If you can control your powers you can come."
 	- [[Ceol]] has a tea ritual almost every morning, offers everyone some
 	- [[Ceol]] points out that [[Shiori]] is the sister to the heir to the throne... [[Akaza]]?
 	- [[Ceol]] was in the war of the [[Great Shattering]], ~200-300 years ago
-	- [[Rui]] is from [[Ikcho]]. [[Mako]] notes that a lot of radical [[Yatari|Yatarians]] fight with a similar flowery dance style
+	- [[Rui]] is from [[Ikcho]]. [[Macko]] notes that a lot of radical [[Yatari|Yatarians]] fight with a similar flowery dance style
 
 ---
 - The party sets out to the shrine...
@@ -16,7 +16,7 @@
 ---
 - Inside the shrine...
 	- Everything is destroyed and looks discredited. The shrine maiden is tied to a chair, hood over head, talismans on body
-	- Dude with face of pug, looks like a bear, hooves, named [[Ghomah]] (?)
+	- Dude with face of pug, looks like a bear, hooves, named [[Gooma]] (?)
 		- "Tell [[Oharah]] I said go fuck himself!" - he poofs away and we hear shuffling away
 		- He smashes a yellow and green talisman together, a grey area forming before he jumps in, looks like the [[Suteki]]
 - We smash the talismans the same way, 
@@ -31,7 +31,7 @@
 - Two icons have awakened in [[Yatari]], [[Amanozako]] and [[Komyoryu]], darkness and lightness
 - Two entities clashed, one on a horse of darkness and a blade, the other is flying and is in the form of a dragon
 - [[Wahlen]]'s book is like [[Zhokan]]'s book
-- [[Mako]] and [[Shiori]]
+- [[Macko]] and [[Shiori]]
 	- They've gone without the summer dragon for 19 years already.... The boy ([[Akaza]]) needs to become a man
-	- [[Mako]] hasn't been allowed to go out on missions by his father... He wants to be ready badly
+	- [[Macko]] hasn't been allowed to go out on missions by his father... He wants to be ready badly
 - Tensions rise, [[Samni]] will prepare for a skirmish, [[Oharah]] would take root there

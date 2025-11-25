@@ -1,6 +1,7 @@
 ---
 aliases:
   - Akaza Shuki
+  - Tekina of Fire
 icon: LiAsterisk
 ---
 # Akaza Shuki
