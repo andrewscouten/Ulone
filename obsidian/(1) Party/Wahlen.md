@@ -2,6 +2,7 @@
 aliases:
   - Wahlen Takuta
   - Wahlen Takuta, Sigillite of Terada
+  - Second Tekina of Fire
 icon: 💫
 ---
 

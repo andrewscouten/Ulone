@@ -1,5 +1,5 @@
 {
-  "settingsVersion": "1.8.01",
+  "settingsVersion": "0.0.0",
   "exportOptions": {
     "createDocumentContainer": true,
     "keepModHeaderFooter": false,
@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "/Users/andrew/Desktop/D&D/Ulone/docs",
+    "exportPath": "",
     "filesToExport": [],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
@@ -211,7 +211,7 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "faviconPath": "",
-    "siteName": "Ulone",
+    "siteName": "obsidian",
     "iconEmojiStyle": "Native",
     "exportRoot": "",
     "includePluginCss": [],
@@ -224,7 +224,7 @@
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "exportPreset": "online",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
     "(^|\\/)dist\\/",
