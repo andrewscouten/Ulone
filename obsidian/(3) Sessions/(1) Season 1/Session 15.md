@@ -48,5 +48,3 @@ Porcelain figure of pure white light, face contours look humanoid, but it looks 
 - "Oh. you learned our name. What else have you learned. [[Ryu]]"
 - You seek the power of [[Arutsua]], the power of the forgotten twins. If you want them, come through me.
 - A dome of fire from [[Akaza]] encapsulates [[Velorah]]. I am ryu, I am the flames of destruction. The flames of life! [[Velorah]] enters [[Akaza]]'s chest, fire leaving and him vomiting blood.
-
--28

@@ -1,3 +1,6 @@
+---
+icon: LiBook
+---
 ## Completed
 
 As they progressed through the ruins fighting through constructs far more advanced than anything they had seen before and solving complex puzzles (that weren’t that complex and took them like 20 minutes by brute forcing it), they arrived at a large open area which the voice declared them a higher threat level before deploying a ‘Kuchika’. After a tough fight, they proceeded to the final room where they saw a mural of a venerated humanoid figure with six wings. Two of a dragons, two of a birds, and two of a Heili dragons. There was also a combination lock with seven characters similar to the one the party saw while captured by the Kagenami. As Wahlen stared upon the mural, a massive headache formed followed by the world going greyscale and time seemingly stopping. Wahlen was then confronted with the hooded man and answered the question of ‘who are you?’ With ‘You. We are you.’  The hooded man lowered his hood showing that he was an exact mirror image of Wahlen. 

@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "👊",
+      "👶",
+      "LiSkull",
       "LiFlag",
       "LiEye",
       "LiAsterisk",
@@ -74,7 +77,6 @@
   "(2) Campaign/4-Locations/Ulone/Ikcho/POI/Imugi Arcaneworks.md": "LiFlag",
   "(2) Campaign/4-Locations/Ulone/Ikcho/POI/Iron Blossom Keep.md": "LiFlag",
   "(2) Campaign/4-Locations/Suteki/Suteki.md": "LiLayoutGrid",
-  "(1) Party/Ceol.md": "🔥",
   "(1) Party/Hera.md": "👿",
   "(1) Party/Rui.md": "⛄",
   "(1) Party/Shiori.md": "⭐",
@@ -173,5 +175,9 @@
   "(2) Campaign/0-Quests/(9) Awaken....md": "LiBook",
   "(2) Campaign/0-Quests/(10) The Wages of Guilt.md": "LiBook",
   "(2) Campaign/0-Quests/(11) Where It All Began.md": "LiBook",
-  "(2) Campaign/0-Quests/(12) Righting Wrongs.md": "LiBook"
+  "(2) Campaign/0-Quests/(12) Righting Wrongs.md": "LiBook",
+  "(1) Party/Dead": "LiSkull",
+  "(1) Party/Dead/Ceol.md": "🔥",
+  "(1) Party/Roh-Yul Seung.md": "👊",
+  "(2) Campaign/4-Locations/Ulone/Ikcho/POI/Mount Tsuchigomo.md": "LiFlag"
 }

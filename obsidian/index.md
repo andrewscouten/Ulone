@@ -5,7 +5,7 @@ Find the general lore [[Ulone Lore|here]].
 ## The Party
 
 > [!info]+ Active Members
-> - [[Ceol]]
+> - [[Roh-Yul Seung|Seung]]
 > - [[Hera]]
 > - [[Rui]]
 > - [[Shiori]]

@@ -1,1 +1,4 @@
+---
+icon: LiBook
+---
 The last of the common races and have a general attracting aura around them. They are quick to make friends, possibly because their scales resemble that of the Heili dragon’s. But make no mistake, they were seen as one of, if not the greatest fighters in the war. 

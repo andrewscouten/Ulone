@@ -1,1 +1,4 @@
+---
+icon: LiBook
+---
 One of the newer races, it is said that Levin took the holy parts of the Dwarves to create a new race fit. These are rather uncommon but often have kind souls and generally fit right in with Dwarves. 

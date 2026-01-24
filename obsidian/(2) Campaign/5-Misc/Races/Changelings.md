@@ -1,4 +1,5 @@
 ---
 aliases:
   - Changeling
+icon: LiBook
 ---

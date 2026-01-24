@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "",
+    "exportPath": "/Users/andrew/Desktop/D&D/Ulone/docs",
     "filesToExport": [],
     "useFallbackRenderer": false,
     "addBodyClasses": true,

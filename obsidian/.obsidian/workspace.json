@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90bf3a8ce3849498",
+            "id": "be5bc708fe2b2afd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(3) Sessions/(1) Season 1/Session 14.md",
+                "file": "(3) Sessions/(1) Season 1/Session 17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 14"
-            }
-          },
-          {
-            "id": "fccb81ab1759091d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(3) Sessions/(1) Season 1/Session 15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 15"
+              "title": "Session 17"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "guardian",
+                "query": "paragus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 265.5
   },
   "right": {
     "id": "212c5711df309aab",
@@ -197,36 +182,37 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "fccb81ab1759091d",
+  "active": "be5bc708fe2b2afd",
   "lastOpenFiles": [
-    "(2) Campaign/1-Entities/Aikons/Namazu.md",
-    "(2) Campaign/1-Entities/Aikons/Komyoryu.md",
-    "(2) Campaign/1-Entities/Aikons/Amanozako.md",
-    "(3) Sessions/(1) Season 1/Session 15.md",
-    "(0) Wählen/Book.md",
+    "(0) Files/src/Useful Commands.md",
+    "(0) Files/uncategorized/Itanno.md",
     "(0) Wählen/Awakening Info.md",
-    "(0) Wählen/Wählen.pdf",
-    "(0) Wählen/Level Up.md",
-    "(3) Sessions/(1) Season 1/Session 4.md",
-    "(3) Sessions/(1) Season 1/Session 2.md",
-    "(3) Sessions/(1) Season 1/Session 3.md",
-    "(3) Sessions/(1) Season 1/Session 14.md",
-    "(3) Sessions/(1) Season 1/Session 13.md",
-    "(3) Sessions/(1) Season 1/Session 12.md",
-    "(2) Campaign/0-Quests/(5) Superstitions Put to Steel.md",
-    "(3) Sessions/(1) Season 1/Session 10.md",
-    "(1) Party/Ceol.md",
-    "(3) Sessions/(1) Season 1/Session 9.md",
-    "(3) Sessions/(1) Season 1/Session 8.md",
-    "Yori.md",
-    "(3) Sessions/(0) Loot/Unused Items.md",
-    "(2) Campaign/1-Entities/Ulone.md",
-    "(3) Sessions/(1) Season 1/Session 11.md",
-    "(2) Campaign/1-Entities/Aikons/Okami.md",
-    "Green Talismans.md",
+    "(2) Campaign/5-Misc/Races/Changelings.md",
+    "(2) Campaign/5-Misc/Races/Bearers.md",
+    "(2) Campaign/5-Misc/Races/Elves.md",
+    "(2) Campaign/5-Misc/Races/Dwarves.md",
+    "(2) Campaign/5-Misc/Races/Dragonborn.md",
+    "(2) Campaign/5-Misc/Races/Halfling.md",
+    "(2) Campaign/5-Misc/Races/Half Elves.md",
+    "(2) Campaign/5-Misc/Races/Gnomes.md",
+    "(2) Campaign/5-Misc/Races/Tabaxi.md",
+    "(2) Campaign/5-Misc/Races/Orcs.md",
+    "(2) Campaign/5-Misc/Races/Humans.md",
+    "(2) Campaign/5-Misc/Races/Tieflings.md",
+    "(2) Campaign/5-Misc/Races/Yokai.md",
+    "(2) Campaign/5-Misc/Races/Triton.md",
+    "(2) Campaign/5-Misc/Races/Yuan-Ti.md",
+    "(2) Campaign/5-Misc/Great Shattering.md",
+    "(2) Campaign/5-Misc/Great War.md",
     "(2) Campaign/5-Misc/Items/Ice Stick.md",
+    "(2) Campaign/5-Misc/Veil.md",
+    "(2) Campaign/5-Misc/Veil Lost.md",
+    "(0) Wählen/Info/Spell Sniper.md",
+    "(2) Campaign/5-Misc/Veylflood.md",
+    "(2) Campaign/5-Misc/Yokoku.md",
+    "(1) Party/Dead",
+    "(0) Wählen/Wählen.pdf",
     "(0) Wählen/Wählen.pdf.sb-b399f3ff-Iy8Es7",
-    "(3) Sessions/(0) Loot/Session 8 Loot.md",
     "(0) Wählen/Wählen.pdf.sb-b399f3ff-RDhCvy",
     "(0) Files/assets/Sculpt Spells.png",
     "(2) Campaign/3-People/Pale Blades",
@@ -236,7 +222,6 @@
     "(2) Campaign/5-Misc/Monsters",
     "(2) Campaign/3-People/1-Party/Praxis",
     "(0) Files/assets/ceol_meme.png",
-    "(2) Campaign/5-Misc/Items",
     "(0) Files/assets/praxis.png",
     "(0) Files/assets/Forgotten Lands Map.png",
     "(0) Files/assets/ulone_map.png",

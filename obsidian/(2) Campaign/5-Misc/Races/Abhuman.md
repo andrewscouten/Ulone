@@ -1,4 +1,5 @@
 ---
 aliases:
   - Abhumans
+icon: LiBook
 ---
