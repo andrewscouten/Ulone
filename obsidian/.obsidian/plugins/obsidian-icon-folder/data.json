@@ -179,5 +179,9 @@
   "(1) Party/Dead": "LiSkull",
   "(1) Party/Dead/Ceol.md": "🔥",
   "(1) Party/Roh-Yul Seung.md": "👊",
-  "(2) Campaign/4-Locations/Ulone/Ikcho/POI/Mount Tsuchigomo.md": "LiFlag"
+  "(2) Campaign/4-Locations/Ulone/Ikcho/POI/Mount Tsuchigomo.md": "LiFlag",
+  "(2) Campaign/3-People/Yakumo.md": "LiAsterisk",
+  "(2) Campaign/3-People/1-Party/Ceol/Yori.md": "LiAsterisk",
+  "(2) Campaign/4-Locations/Taichun.md": "LiFlag",
+  "(2) Campaign/4-Locations/Arcanum.md": "LiFlag"
 }

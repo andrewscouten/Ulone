@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(3) Sessions/(1) Season 1/Session 17.md",
+                "file": "(3) Sessions/(1) Season 1/Session 18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 17"
+              "title": "Session 18"
+            }
+          },
+          {
+            "id": "b9870f34b1747789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(3) Sessions/(1) Season 1/Session 18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 18"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,34 +197,39 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "be5bc708fe2b2afd",
+  "active": "b9870f34b1747789",
   "lastOpenFiles": [
-    "(0) Files/src/Useful Commands.md",
-    "(0) Files/uncategorized/Itanno.md",
-    "(0) Wählen/Awakening Info.md",
-    "(2) Campaign/5-Misc/Races/Changelings.md",
-    "(2) Campaign/5-Misc/Races/Bearers.md",
-    "(2) Campaign/5-Misc/Races/Elves.md",
-    "(2) Campaign/5-Misc/Races/Dwarves.md",
-    "(2) Campaign/5-Misc/Races/Dragonborn.md",
-    "(2) Campaign/5-Misc/Races/Halfling.md",
-    "(2) Campaign/5-Misc/Races/Half Elves.md",
-    "(2) Campaign/5-Misc/Races/Gnomes.md",
-    "(2) Campaign/5-Misc/Races/Tabaxi.md",
-    "(2) Campaign/5-Misc/Races/Orcs.md",
-    "(2) Campaign/5-Misc/Races/Humans.md",
-    "(2) Campaign/5-Misc/Races/Tieflings.md",
-    "(2) Campaign/5-Misc/Races/Yokai.md",
-    "(2) Campaign/5-Misc/Races/Triton.md",
-    "(2) Campaign/5-Misc/Races/Yuan-Ti.md",
-    "(2) Campaign/5-Misc/Great Shattering.md",
-    "(2) Campaign/5-Misc/Great War.md",
-    "(2) Campaign/5-Misc/Items/Ice Stick.md",
-    "(2) Campaign/5-Misc/Veil.md",
+    "(2) Campaign/3-People/1-Party/Ceol/Yori.md",
+    "(2) Campaign/0-Quests/(12) Righting Wrongs.md",
+    "(3) Sessions/(1) Season 1/Session 17.md",
     "(2) Campaign/5-Misc/Veil Lost.md",
-    "(0) Wählen/Info/Spell Sniper.md",
-    "(2) Campaign/5-Misc/Veylflood.md",
-    "(2) Campaign/5-Misc/Yokoku.md",
+    "(2) Campaign/5-Misc/Shiki.md",
+    "(2) Campaign/4-Locations/Taichun.md",
+    "(1) Party/Wahlen.md",
+    "(1) Party/Rui.md",
+    "(2) Campaign/3-People/Natsu Shuki.md",
+    "(2) Campaign/4-Locations/Arcanum.md",
+    "(3) Sessions/(1) Season 1/Session 18.md",
+    "(3) Sessions/(1) Season 1/Session 15.md",
+    "(3) Sessions/(1) Season 1/Session 16.md",
+    "(2) Campaign/3-People/Kou's/Paragus Kou.md",
+    "(0) Files/assets/rui_meme.png",
+    "(2) Campaign/3-People/1-Party/Macko",
+    "(2) Campaign/3-People/1-Party/Shiori/Akibara Shuki.md",
+    "(2) Campaign/3-People/1-Party/Shiori/Hinatsuru Shuki.md",
+    "(1) Party/Shiori.md",
+    "(0) Files/assets/rui_weapons.png",
+    "(3) Sessions/(1) Season 1/Session 8.md",
+    "(0) Wählen/Level Up.md",
+    "(0) Wählen/Book.md",
+    "(2) Campaign/4-Locations/Tansho.md",
+    "(2) Campaign/4-Locations/Ninnan Gate.md",
+    "(2) Campaign/4-Locations/Ulone/Whistling Mountains/Whistling Mountains.md",
+    "(2) Campaign/3-People/Yakumo.md",
+    "(2) Campaign/3-People/Timbatzu Azuna.md",
+    "(2) Campaign/3-People/Shiro Akuagan.md",
+    "(2) Campaign/3-People/1-Party/Seung",
+    "(2) Campaign/3-People/1-Party/Ceol",
     "(1) Party/Dead",
     "(0) Wählen/Wählen.pdf",
     "(0) Wählen/Wählen.pdf.sb-b399f3ff-Iy8Es7",
@@ -218,17 +238,12 @@
     "(2) Campaign/3-People/Pale Blades",
     "(2) Campaign/3-People/Talvec's",
     "(2) Campaign/3-People/Shuki's",
-    "(2) Campaign/3-People/Kou's",
-    "(2) Campaign/5-Misc/Monsters",
-    "(2) Campaign/3-People/1-Party/Praxis",
     "(0) Files/assets/ceol_meme.png",
     "(0) Files/assets/praxis.png",
     "(0) Files/assets/Forgotten Lands Map.png",
     "(0) Files/assets/ulone_map.png",
     "(0) Files/assets/ref_hera.png",
     "(0) Files/assets/portrait_ceol.png",
-    "(0) Files/assets/party/wahlen/ref_spell_sniper.png",
-    "(0) Files/assets/party/wahlen/portrait_wahlen.png",
-    "(0) Files/assets/maps/ulone.jpg"
+    "(0) Files/assets/party/wahlen/ref_spell_sniper.png"
   ]
 }

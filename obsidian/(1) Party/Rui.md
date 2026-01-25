@@ -12,7 +12,11 @@ Player: Marlo (she/her?)
 > [!infobox|center wfull]
 > # Rui Babk
 > 
+> ![[rui_meme.png|portrait]]
 > ###### Bio
 > |  |  |
 > | --- | --- |
 > | Pronouns: | She/Her? |
+
+
+![[rui_weapons.png]]

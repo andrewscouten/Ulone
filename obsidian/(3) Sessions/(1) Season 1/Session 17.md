@@ -1,1 +1,8 @@
-- 
+- We holed up in a cave, after the events of the [[Hideaway]]
+- We hunted some animals for food
+	- [[Wahlen]] failed a wisdom save and ate a goose head; was alone when this happened
+- Role play!
+	- [[Rui]], [[Wahlen]], [[Macko]], and [[Yari Talvec|Yari]] were all hashing their emotions
+- There's a crystal in [[Wahlen]]'s book, giving it to [[Roh-Yul Seung|Seung]]
+	- Power up!
+- We set out towards [[Taichun]]
