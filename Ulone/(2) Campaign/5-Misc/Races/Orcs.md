@@ -1,0 +1,5 @@
+---
+aliases:
+  - Orc
+icon: LiBook
+---

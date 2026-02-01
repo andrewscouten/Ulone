@@ -1,0 +1,5 @@
+---
+aliases:
+  - Yatari
+icon: LiAsterisk
+---

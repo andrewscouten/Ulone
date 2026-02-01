@@ -1,1 +1,0 @@
-Large Japanese style mansions

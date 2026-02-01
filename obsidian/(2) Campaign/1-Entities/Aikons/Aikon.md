@@ -1,6 +1,0 @@
----
-aliases:
-  - Aikons
-icon: LiBook
----
-

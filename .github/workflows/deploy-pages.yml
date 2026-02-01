@@ -1,0 +1,78 @@
+name: Export Obsidian to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Ulone/**'
+
+jobs:
+  export-and-deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout obsidian-webpage-export
+        uses: actions/checkout@v4
+        with:
+          repository: KosmosisDire/obsidian-webpage-export
+          path: webpage-export-plugin
+
+      - name: Build Docker image
+        run: |
+          cd webpage-export-plugin
+          docker build -t obsidian-webpage-export:local .
+          cd ..
+
+      - name: Export Obsidian vault to HTML
+        run: |
+          set +e
+          mkdir -p ./output
+          
+          # Run the obsidian-webpage-export Docker container
+          # Mount the Ulone folder as /vault and output to ./output
+          docker run --rm \
+            -v ${{ github.workspace }}/Ulone:/vault \
+            -v ${{ github.workspace }}/output:/output \
+            obsidian-webpage-export:local
+          
+          # Check if export succeeded
+          if [ $? -eq 137 ]; then
+            echo "Export completed with memory limit warning (normal)"
+          fi
+          
+          # Verify output was created
+          ls -la ./output
+
+      - name: Deploy to pages branch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Fetch the pages branch or create it
+          git fetch origin pages:pages 2>/dev/null || git checkout --orphan pages
+          git checkout pages
+          
+          # Remove old files
+          git rm -rf . 2>/dev/null || true
+          
+          # Copy exported HTML files
+          cp -r output/* .
+          
+          # Preserve CNAME file for custom domain
+          echo "ulone.games-with-friends.org" > CNAME
+          
+          # Add, commit, and push
+          git add .
+          git commit -m "Deploy: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push origin pages --force

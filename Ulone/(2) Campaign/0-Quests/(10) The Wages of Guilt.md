@@ -1,0 +1,6 @@
+---
+icon: LiBook
+---
+## Completed
+
+After getting back and after some dreams occurred, Wahlen was released from his confinements as Paragus asked the group to meet up with Enokaga and his colleague he called upon. After arriving at the drowned boughs, they found Paragus colleague, Praxis Tryggur as well as Enokaga being ambushed by Hikari Seiji soldiers with a kagenami samurai. The samurai told them to stop while Hikari Seiji did not listen. A fight ensued where the Samurai, Lord Tsuga Kitakuri, helped the party defend Enokaga. After the fighting ceased, he told Hera he had a message from her father. His father asked Hera to return which Hera denied. The lord departed and they talked to Enokaga who informed them that the hooded man was seen making his way towards Samni with a companion. The party theorized that he was heading towards Ninnan gate with his companion. After convincing Yari to join them and Macko refusing to work with his brother's killer. The group set out and made their way to a small village where they were recognized by Hinatsuru Shuki, the lady of Samni. After a small chat and tea, they set out for Ninnan gate where Wahlen saw the cloaked man enter the Taor ruin under the stronghold. They followed and were locked in the Taor ruin with a voice saying ‘Threat level: Minoris’.

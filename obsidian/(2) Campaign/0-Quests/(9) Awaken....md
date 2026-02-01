@@ -1,6 +1,0 @@
----
-icon: LiBook
----
-## Completed
-
-Fire surrounded Wahlen before a dome of fire erupted from him, blowing Tengu away. Amidst the storm it was nearly blinding as a pillar of fire burned revealing Wahlen in the form of Yamakaen, Aikon of Inferno. After a devastating fight to both each other and the land, Yamakaen was victorious and began to make its way to attack the party. Paragus transformed into the dragon of spring, electrocuting Yamakaen and knocking it unconscious. Wahlen was unconscious but alive and the group made their way back to the hideaway. The beast that destroyed a nation. The Aikon that destroyed so many lives. The man that burned away two Aikons…was with them all along. Awaken to crack the heavens, Wahlen.

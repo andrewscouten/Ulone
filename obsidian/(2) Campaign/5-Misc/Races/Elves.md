@@ -1,5 +1,0 @@
----
-aliases:
-  - Elf
-icon: LiBook
----

@@ -1,1 +1,5 @@
 **/**/.DS_Store
+
+# GitHub Actions temporary output
+output/
+.log.txt
