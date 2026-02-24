@@ -6,7 +6,8 @@
 echo "Creating output directory..."
 mkdir -p ./output
 
-echo "Running Obsidian webpage export..."
+echo "Building Docker image..."
+docker build --platform linux/amd64 -t obsidian-webpage-export:local ./.github/export-env
 docker run --rm \
   -e EXPORT_ENTIRE_VAULT=true \
   -e EXPORT_PRESET=online \

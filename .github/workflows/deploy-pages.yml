@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'Ulone/**'
-      - 'obsidian-webpage-export/**'
+      - '.github/export-env/**'
       - '.github/workflows/deploy-pages.yml'
 
 jobs:
@@ -26,7 +26,7 @@ jobs:
 
       - name: Build Docker image
         run: |
-          docker build -t obsidian-webpage-export:local ./obsidian-webpage-export
+          docker build -t obsidian-webpage-export:local ./.github/export-env
 
       - name: Export Obsidian vault to HTML
         run: |
