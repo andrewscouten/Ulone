@@ -1,5 +1,0 @@
----
-aliases:
-  - Akenai
-icon: LiAsterisk
----

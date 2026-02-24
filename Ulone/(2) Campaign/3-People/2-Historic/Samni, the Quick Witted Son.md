@@ -1,5 +1,0 @@
----
-aliases:
-  - Samni
-icon: LiAsterisk
----

@@ -1,5 +1,0 @@
----
-aliases:
-  - Changeling
-icon: LiBook
----

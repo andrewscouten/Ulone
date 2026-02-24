@@ -1,5 +1,0 @@
----
-aliases:
-  - Gnome
-icon: LiBook
----

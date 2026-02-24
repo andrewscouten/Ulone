@@ -1,5 +1,0 @@
----
-aliases:
-  - Talvek
-icon: LiAsterisk
----

@@ -1,4 +1,0 @@
----
-icon: LiBook
----
-The Kagenami first showed themselves on the night of Samni’s extinguishing and bore the same steel and appearance of Samurai but have since claimed they are not in direct association with the land of reeds, only that they are a splinter group. The Samurai have not made any attempts to stop or impede them in any way however. As of now, the Kagenami have a standing agreement with the Imugi arcane works, a main part of Samni led by Ganra Dokugan, Tekina of Tsuchigomo, warden of Earth.

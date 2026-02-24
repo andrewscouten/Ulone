@@ -1,5 +1,0 @@
----
-aliases:
-  - Seung
-icon: 👊
----

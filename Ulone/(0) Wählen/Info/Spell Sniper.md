@@ -1,1 +1,0 @@
-![[ref_spell_sniper.png]]
