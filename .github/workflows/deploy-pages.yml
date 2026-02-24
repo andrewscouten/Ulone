@@ -6,7 +6,6 @@ on:
       - main
     paths:
       - 'Ulone/**'
-      - '.github/export-env/**'
       - '.github/workflows/deploy-pages.yml'
 
 jobs:
@@ -24,23 +23,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Build Docker image
-        run: |
-          docker build -t obsidian-webpage-export:local ./.github/export-env
-
       - name: Export Obsidian vault to HTML
         run: |
           set +e
           mkdir -p ./output
           
-          # Run the obsidian-webpage-export Docker container
+          # Run the obsidian-webpage-export Docker container from GHCR
           # Mount the Ulone folder as /vault and output to ./output
           docker run --rm \
             -e EXPORT_ENTIRE_VAULT=true \
             -e EXPORT_PRESET=online \
             -v ${{ github.workspace }}/Ulone:/vault \
             -v ${{ github.workspace }}/output:/output \
-            obsidian-webpage-export:local
+            ghcr.io/andrewscouten/obsidian-webpage-export:latest
           
           # Check if export succeeded
           if [ $? -eq 137 ]; then
@@ -76,6 +71,9 @@ jobs:
           else
             echo "ulone.games-with-friends.org" > CNAME
           fi
+          
+          # Remove output directory so it isn't deployed
+          rm -rf output
           
           # Add, commit, and push
           git add .

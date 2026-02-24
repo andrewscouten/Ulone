@@ -6,14 +6,13 @@
 echo "Creating output directory..."
 mkdir -p ./output
 
-echo "Building Docker image..."
-docker build --platform linux/amd64 -t obsidian-webpage-export:local ./.github/export-env
+echo "Running Obsidian webpage export..."
 docker run --rm \
   -e EXPORT_ENTIRE_VAULT=true \
   -e EXPORT_PRESET=online \
   -v "$(pwd)/Ulone:/vault" \
   -v "$(pwd)/output:/output" \
-  obsidian-webpage-export:local
+  ghcr.io/andrewscouten/obsidian-webpage-export:latest
 
 # Check exit code
 if [ $? -eq 137 ]; then
