@@ -74,7 +74,7 @@ We arrive at a place that a lot of people have gathered, lot of bearers
 "Don't trust... It eats gods"
 
 --- 
-[[Akenai Sachio|Akenai]] does not officialy exist, but the ruler of what [[Yatari]] is now, [[Timbatzu Azuna]] the ruler, were affiliated... After investigating, [[Paragus Kou]] is no longer allowed in [[Yatari]]. They were doing something with the [[Taor]] ruins
+[[Akenai Sachio|Akenai]] does not officially exist, but the ruler of what [[Yatari]] is now, [[Timbatzu Azuna]] the ruler, were affiliated... After investigating, [[Paragus Kou]] is no longer allowed in [[Yatari]]. They were doing something with the [[Taor]] ruins
 - 2nd [[Aikon]] of fire right outside of a [[Taor]] ruin
 - [[Iron works]] is making crystals made out of [[Taor]] ruins
 

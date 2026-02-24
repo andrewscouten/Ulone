@@ -6,6 +6,8 @@ on:
       - main
     paths:
       - 'Ulone/**'
+      - 'obsidian-webpage-export/**'
+      - '.github/workflows/deploy-pages.yml'
 
 jobs:
   export-and-deploy:
@@ -22,17 +24,9 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Checkout obsidian-webpage-export
-        uses: actions/checkout@v4
-        with:
-          repository: KosmosisDire/obsidian-webpage-export
-          path: webpage-export-plugin
-
       - name: Build Docker image
         run: |
-          cd webpage-export-plugin
-          docker build -t obsidian-webpage-export:local .
-          cd ..
+          docker build -t obsidian-webpage-export:local ./obsidian-webpage-export
 
       - name: Export Obsidian vault to HTML
         run: |
@@ -42,6 +36,8 @@ jobs:
           # Run the obsidian-webpage-export Docker container
           # Mount the Ulone folder as /vault and output to ./output
           docker run --rm \
+            -e EXPORT_ENTIRE_VAULT=true \
+            -e EXPORT_PRESET=online \
             -v ${{ github.workspace }}/Ulone:/vault \
             -v ${{ github.workspace }}/output:/output \
             obsidian-webpage-export:local
@@ -63,14 +59,23 @@ jobs:
           git fetch origin pages:pages 2>/dev/null || git checkout --orphan pages
           git checkout pages
           
+          # Preserve CNAME file for custom domain if it exists on the pages branch
+          if [ -f CNAME ]; then
+            cp CNAME /tmp/CNAME
+          fi
+          
           # Remove old files
           git rm -rf . 2>/dev/null || true
           
           # Copy exported HTML files
           cp -r output/* .
           
-          # Preserve CNAME file for custom domain
-          echo "ulone.games-with-friends.org" > CNAME
+          # Restore the CNAME file
+          if [ -f /tmp/CNAME ]; then
+            mv /tmp/CNAME .
+          else
+            echo "ulone.games-with-friends.org" > CNAME
+          fi
           
           # Add, commit, and push
           git add .

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHandMetal",
       "LiEyeOff",
       "👊",
       "👶",
@@ -187,5 +188,8 @@
   "(2) Campaign/4-Locations/Arcanum.md": "LiFlag",
   "(2) Campaign/4-Locations/Ulone/Samni/Darga.md": "LiFlag",
   "(2) Campaign/4-Locations/Horanma.md": "LiFlag",
-  "(2) Campaign/1-Entities/Velorah.md": "LiEyeOff"
+  "(2) Campaign/1-Entities/Velorah.md": "LiEyeOff",
+  "Zoato.md": "LiFlag",
+  "Garou.md": "LiEyeOff",
+  "Hihiirokane.md": "LiAsterisk"
 }

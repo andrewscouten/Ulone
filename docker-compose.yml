@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  export:
+    image: spartacus04/obsidian-webpage-export:latest
+    volumes:
+      - ./Ulone:/vault
+      - ./output:/output
+    container_name: obsidian-export

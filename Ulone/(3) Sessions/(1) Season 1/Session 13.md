@@ -1,4 +1,4 @@
-> [!quote] Ship Announcment
+> [!quote] Ship Announcement
 > Threat level minorous!
 
 Inside the [[Taor]] ruin at [[Ninnan Gate]]...

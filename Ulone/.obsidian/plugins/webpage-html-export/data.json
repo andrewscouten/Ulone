@@ -211,10 +211,13 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "faviconPath": "",
-    "siteName": "obsidian",
+    "siteName": "Ulone",
     "iconEmojiStyle": "Native",
     "exportRoot": "",
-    "includePluginCss": [],
+    "includePluginCss": [
+      "dataview",
+      "customjs"
+    ],
     "includeStyleCssIds": [],
     "autoDisposeWebpages": true
   },

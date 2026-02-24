@@ -70288,18 +70288,22 @@ body
 }
 
 #left-sidebar .clickable-icon.sidebar-collapse-icon {
-    transform: rotateY(180deg);
     right: var(--sidebar-margin);
 }
 
 #right-sidebar .clickable-icon.sidebar-collapse-icon {
-    transform: rotateY(180deg);
+	transform: scaleX(-1);
+	transform-origin: center;
     left: var(--sidebar-margin);
 }
 
 .clickable-icon.sidebar-collapse-icon svg.svg-icon {
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
+}
+
+.sidebar:not(.is-collapsed) .clickable-icon.sidebar-collapse-icon svg.svg-icon .sidebar-toggle-icon-inner {
+	width: 24%;
 }
 
 .feature-title {
@@ -74893,7 +74897,9 @@ var _Settings = class {
       }
     }
     ;
-    return files;
+    let filteredFiles = files.filter((file) => _Settings.filePickerBlacklist.every((pattern) => !file.match(new RegExp(pattern))));
+    filteredFiles = filteredFiles.filter((file) => _Settings.filePickerWhitelist.every((pattern) => file.match(new RegExp(pattern))));
+    return filteredFiles;
   }
   static getFilesToExport() {
     return this.getAllFilesFromPaths(_Settings.exportOptions.filesToExport).map((p) => app.vault.getFileByPath(p)).filter((f) => f);
@@ -78762,8 +78768,10 @@ var FileTree = class extends Tree {
           currentParentNode.originalExtension = file.extensionName;
           if (!this.keepOriginalExtensions && MarkdownRendererAPI.isConvertable(targetPath.extensionName))
             targetPath.setExtension("html");
-          if (tfile)
+          if (tfile) {
             currentParentNode.title = (await _MarkdownRendererInternal.getTitleForFile(tfile)).title;
+            currentParentNode.icon = (await _MarkdownRendererInternal.getIconForFile(tfile)).icon;
+          }
         }
         currentParentNode.href = targetPath.path;
       }
@@ -80631,7 +80639,7 @@ var _WebpageTemplate = class {
   }
   async loadLayout() {
     this.doc = document.implementation.createHTMLDocument();
-    const collapseSidebarIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg>`;
+    const collapseSidebarIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon sidebar-toggle-button-icon"><rect x="1" y="2" width="22" height="20" rx="4"></rect><rect x="4" y="5" width="2" height="14" rx="2" fill="currentColor" class="sidebar-toggle-icon-inner"></rect></svg>`;
     const head = this.doc.head;
     head.innerHTML = `<meta charset="UTF-8">` + head.innerHTML;
     head.innerHTML += `<meta property="og:site_name" content="${this.options.siteName}">`;
@@ -82122,6 +82130,9 @@ var _HTMLExportPlugin = class extends import_obsidian12.Plugin {
   async exportDocker() {
     await HTMLExporter.export(true, void 0, new Path("/output"));
   }
+  async exportVault(path) {
+    await HTMLExporter.exportVault(new Path(path), true, false);
+  }
   async onload() {
     console.log("Loading webpage-html-export plugin");
     this.checkForUpdates();
@@ -82241,5 +82252,3 @@ HTMLExportPlugin.pluginVersion = "0.0.0";
  * MIT Licensed
  */
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-/* nosourcemap */
