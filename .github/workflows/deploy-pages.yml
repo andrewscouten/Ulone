@@ -23,6 +23,13 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Log in to the Container registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Export Obsidian vault to HTML
         run: |
           set +e
@@ -50,9 +57,13 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
+          # Discard any modifications Obsidian made during the export (e.g., workspace.json)
+          git checkout -- .
+          git clean -fd
+          
           # Fetch the pages branch or create it
           git fetch origin pages:pages 2>/dev/null || git checkout --orphan pages
-          git checkout pages
+          git checkout -f pages
           
           # Preserve CNAME file for custom domain if it exists on the pages branch
           if [ -f CNAME ]; then
